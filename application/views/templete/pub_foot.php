@@ -1,40 +1,12 @@
 <div class="footer">
-    <div class="friend-link">
-        <div class="container">
-            <div class="title">友情链接</div>
-            <dl class="after-cls">
-            		<dd><a href="" target="_blank">杭州宠物生活馆</a></dd>
-            		<dd><a href="" target="_blank">北京宠物生活馆</a></dd>
-            		<dd><a href="" target="_blank">上海猫舍</a></dd>
-            		<dd><a href="" target="_blank">天韵猫舍</a></dd>
-            		<dd><a href="" target="_blank">杭州猫舍</a></dd>
-            		<dd><a href="" target="_blank">杭州宠物训练基地</a></dd>
-            		<dd><a href="" target="_blank">狗狗网</a></dd>
-            		<dd><a href="" target="_blank">宠物猫</a></dd>
-            		<dd><a href="" target="_blank">宠物交易</a></dd>
-            		<dd><a href="" target="_blank">宠物口粮</a></dd>
-            		<dd><a href="" target="_blank">杭州宠物生活馆</a></dd>
-            		<dd><a href="" target="_blank">北京宠物生活馆</a></dd>
-            		<dd><a href="" target="_blank">上海猫舍</a></dd>
-            		<dd><a href="" target="_blank">天韵猫舍</a></dd>
-            		<dd><a href="" target="_blank">杭州猫舍</a></dd>
-            		<dd><a href="" target="_blank">杭州宠物训练基地</a></dd>
-            		<dd><a href="" target="_blank">狗狗网</a></dd>
-            		<dd><a href="" target="_blank">宠物猫</a></dd>
-            		<dd><a href="" target="_blank">宠物交易</a></dd>
-            		<dd><a href="" target="_blank">宠物口粮</a></dd>
-            </dl>
-        </div>
-    </div>
     <div class="about-link">
         <a href="" target="_blank">关于我们</a>
         <a href="" target="_blank">隐私声明</a>
-        <a href="" target="_blank">版权声明</a>
-        <a href="" target="_blank">服务协议</a>
         <a href="" target="_blank">联系我们</a>
+        <a href="" target="_blank">网站地图</a>
         <a href="" target="_blank">帮助中心</a>
     </div>
-    <div class="copyright">©2019&nbsp;&nbsp;狗狗宠物交易网&nbsp;&nbsp;浙ICP备10703982号&nbsp;&nbsp;业务经营许可证：浙B1-30224128&nbsp;&nbsp;浙公网安备33807403020781号</div>
+    <div class="copyright">©2019&nbsp;&nbsp;问问网&nbsp;&nbsp;浙ICP备号&nbsp;&nbsp;业务经营许可证：浙&nbsp;&nbsp;浙公网安备号</div>
 </div>
 
 
@@ -224,7 +196,7 @@ $(function(){
     $("#upwin_tofindpwd").on("click",function(){
         Pop.open("upwin_findpwd");
     })
-    
+
     $.ajax({
         type:"get",
         url:"/htdocs/json/city.json",
@@ -234,7 +206,7 @@ $(function(){
             console.log(cityJson);
         }
     });
-    
+
     $(".current-location").on("click",function(e){
         var eve = e || window.event;
         eve.stopPropagation ? eve.stopPropagation() : eve.cancelBubble = !0;
@@ -257,22 +229,22 @@ $(function(){
             $('.location').toggleClass("cur");
         }
     })
-    
+
     $(".location").on("click",function(e){
     		var eve = e || window.event;
     		eve.stopPropagation ? eve.stopPropagation() : eve.cancelBubble = !0;
     })
-    
+
     $("body").on("click",function(){
         $(".location").removeClass("cur");
     })
-    
+
     $(".location-panel .title a").on("click",function(){
         $(this).addClass("curtype").siblings().removeClass("curtype");
         var target = $(this).data("target");
         $("#"+target).show().siblings(".list").hide();
     })
-    
+
     $(".provincelist").on("click","a",function(){
         var code = $(this).data("code");
     		$(this).addClass("selected").siblings().removeClass("selected");
@@ -289,7 +261,7 @@ $(function(){
     		$(".provincelist").hide();
         $(".citylist").show();
     })
-    
+
     $(".citylist").on("click","a",function(){
         $(this).addClass("selected").siblings().removeClass("selected");
         setTimeout(function(){
