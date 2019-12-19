@@ -40,9 +40,9 @@
       <a href="/page/home" class="nav-home">首页</a>
       <div class="nav-item">
         <ul>
-          <li class="cur"><a href="/page/pet_list">问题分类</a></li>
-          <li><a href="/page/goods_list">问题精选</a></li>
-          <li><a href="/page/shop_list">有问有答</a></li>
+          <li class="cur"><a href="/page/fenlei">问题分类</a></li>
+          <li><a href="/page/jingxuan">问题精选</a></li>
+          <li><a href="/page/">有问有答</a></li>
         </ul>
       </div>
     </div>
