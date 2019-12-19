@@ -33,8 +33,8 @@
           <div class="hd">问答</div>
           <div class="bd">问答目前已经累计帮助<font class="">248,984,923</font>人。<br/>想成为求知者，亦或是帮助其他人的智囊团，<br/>那就加入我们吧！</div>
           <div class="ft">
-            <a href="#">登录</a>
-            <a href="#">注册</a>
+            <a href="/page/login">登录</a>
+            <a href="/page/register">注册</a>
           </div>
         </div>
     </div>

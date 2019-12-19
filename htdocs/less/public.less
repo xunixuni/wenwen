@@ -666,13 +666,13 @@ a.underline:hover{color: @base-color !important;}
 }
 
 /*公共按钮*/
-.pub-btn{/*默认高度36，正常按钮，颜色#ff8e00默认色*/
+.pub-btn{/*默认高度36，正常按钮，默认色*/
     display: inline-block;
     height: 36px;
     line-height: 38px;
     font-size: 14px;
     color: #fff;
-    background-color: #ff8e00;
+    background-color: @base-color;
     border:none;
     text-align: center;
     padding: 0 15px;
@@ -814,6 +814,7 @@ input[type=radio]:checked:disabled+i{
 
 
 .header{
+    min-width:1210px;
     .top-bar{
         width: 100%;
         height: 37px;
@@ -1128,6 +1129,7 @@ input[type=radio]:checked:disabled+i{
 }
 
 .footer{
+    min-width:1210px;
     background-color: #404040;
     .friend-link{
         padding: 20px 0;
@@ -1208,6 +1210,7 @@ input[type=radio]:checked:disabled+i{
     width: 100%;
     height: 438px;
     overflow: hidden;
+    min-width:1210px;
     .swiper-slide{
         overflow: hidden;
     }
@@ -1282,6 +1285,7 @@ input[type=radio]:checked:disabled+i{
     }
 }
 .home-list{
+  min-width:1210px;
   margin-top:40px;
   .hd{
     height: 50px;
@@ -1383,6 +1387,7 @@ input[type=radio]:checked:disabled+i{
   text-align: center;
   background:#fcfcfc;
   padding:40px 0 4px 0;
+  min-width:1210px;
   .box{
     border:1px solid #d3e4df;
     background:#fff;
@@ -1451,7 +1456,7 @@ input[type=radio]:checked:disabled+i{
 
 .navigation{
     padding: 35px 0;
-    padding: 35px 0;
+    min-width:1210px;
     background-image: -moz-linear-gradient(108deg, #207561 0%, #11523e 100%);
     background-image: -webkit-linear-gradient(108deg, #207561 0%, #11523e 100%);
     background-image: -ms-linear-gradient(108deg, #207561 0%, #11523e 100%);

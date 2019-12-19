@@ -2757,13 +2757,13 @@ a.underline:hover {
 }
 /*公共按钮*/
 .pub-btn {
-  /*默认高度36，正常按钮，颜色#ff8e00默认色*/
+  /*默认高度36，正常按钮，默认色*/
   display: inline-block;
   height: 36px;
   line-height: 38px;
   font-size: 14px;
   color: #fff;
-  background-color: #ff8e00;
+  background-color: #207561;
   border: none;
   text-align: center;
   padding: 0 15px;
@@ -2901,6 +2901,9 @@ input[type=radio]:checked:disabled + i {
 /*
  * public End
  */
+.header {
+  min-width: 1210px;
+}
 .header .top-bar {
   width: 100%;
   height: 37px;
@@ -3213,6 +3216,7 @@ input[type=radio]:checked:disabled + i {
   background-color: #207561;
 }
 .footer {
+  min-width: 1210px;
   background-color: #404040;
 }
 .footer .friend-link {
@@ -3289,6 +3293,7 @@ input[type=radio]:checked:disabled + i {
   width: 100%;
   height: 438px;
   overflow: hidden;
+  min-width: 1210px;
 }
 .home-banner .swiper-slide {
   overflow: hidden;
@@ -3365,6 +3370,7 @@ input[type=radio]:checked:disabled + i {
   background: #fff;
 }
 .home-list {
+  min-width: 1210px;
   margin-top: 40px;
 }
 .home-list .hd {
@@ -3463,6 +3469,7 @@ input[type=radio]:checked:disabled + i {
   text-align: center;
   background: #fcfcfc;
   padding: 40px 0 4px 0;
+  min-width: 1210px;
 }
 .home-type .box {
   border: 1px solid #d3e4df;
@@ -3532,6 +3539,7 @@ input[type=radio]:checked:disabled + i {
 }
 .navigation {
   padding: 35px 0;
+  min-width: 1210px;
   background-image: -moz-linear-gradient(108deg, #207561 0%, #11523e 100%);
   background-image: -webkit-linear-gradient(108deg, #207561 0%, #11523e 100%);
   background-image: -ms-linear-gradient(108deg, #207561 0%, #11523e 100%);
