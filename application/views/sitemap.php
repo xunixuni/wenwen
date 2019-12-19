@@ -11,7 +11,7 @@
     <span>您所在的位置：</span>
     <a href="/page/home">首页</a><em></em><a href="/page/sitemap">网站地图</a>
   </div>
-  <div class="first-tit">网站地图</div>
+  <div class="first-tit"><span class="title">网站地图</span></div>
   <div class="sitemap">
     <table width="100%">
       <tbody>

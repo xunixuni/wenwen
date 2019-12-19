@@ -11,7 +11,7 @@
     <span>您所在的位置：</span>
     <a href="/page/home">首页</a><em></em><a href="/page/fenlei">问题分类</a>
   </div>
-  <div class="first-tit">问题分类</div>
+  <div class="first-tit"><span class="title">问题分类</span></div>
   <div class="sitemap">
     <dl class="">
       <dt>
