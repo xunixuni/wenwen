@@ -11,6 +11,7 @@
     </div>
 </div>
 <div class="login-page after-cls">
+  <div class="container">
     <div class="login-page-form" style="left: -50%;position: relative;margin-right: -180px;margin-top:0;">
         <div class="form-title">用户注册</div>
         <div class="form-tip" id="reg_error">用户名已存在</div>
@@ -54,7 +55,7 @@
         </div>
         <a href="javascript:;" id="login_btn" class="login-btn mb20 forbid">注册</a>
     </div>
-
+  </div>
 </div>
 <div class="login-page-footer">
     <div class="about-link">

@@ -11,6 +11,7 @@
     </div>
 </div>
 <div class="login-page after-cls">
+  <div class="container">
     <div class="login-page-left">
       <div class="f20 lh40"><img src="/htdocs/images/coffee.png" alt="" style="position:relative;top:18px;">寄语</div>
       <br />
@@ -56,7 +57,7 @@
         </div>
         <a href="javascript:;" id="login_btn" class="login-btn mb20 forbid">登录</a>
     </div>
-
+  </div>
 </div>
 <div class="login-page-footer">
     <div class="about-link">
