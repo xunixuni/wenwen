@@ -11,7 +11,7 @@
     <span>您所在的位置：</span>
     <a href="/page/home">首页</a><em></em><a href="/page/fenlei">问题分类</a><em></em><a href="/page/fenlei">手游</a>
   </div>
-  <div class="fenlei-top mb30">
+  <div class="fenlei-top mb10">
     <div class="fenlei-tit">
       <div class="shell">手游<span>ShouYou</span></div>
     </div>
@@ -239,7 +239,198 @@
       </div>
     </div>
     <div class="module-right">
-      v
+      <div class="panel mb10">
+        <div class="hd mb10">
+          <span class="tit">手机排行</span>
+        </div>
+        <ul class="bd rank">
+          <li>
+            <a href="#" class="items">
+              <div class="desc">游戏好玩游戏好玩游戏好玩游戏好玩游戏好玩游戏好玩游戏好玩
+              </div>
+              <span class="num">1</span>
+            </a>
+          </li>
+          <li>
+            <a href="#" class="items">
+              <div class="desc">游戏好玩
+              </div>
+              <span class="num">2</span>
+            </a>
+          </li>
+          <li>
+            <a href="#" class="items">
+              <div class="desc">游戏好玩
+              </div>
+              <span class="num">3</span>
+            </a>
+          </li>
+          <li>
+            <a href="#" class="items">
+              <div class="desc">游戏好玩
+              </div>
+              <span class="num">4</span>
+            </a>
+          </li>
+          <li>
+            <a href="#" class="items">
+              <div class="desc">游戏好玩
+              </div>
+              <span class="num">5</span>
+            </a>
+          </li>
+          <li>
+            <a href="#" class="items">
+              <div class="desc">游戏好玩
+              </div>
+              <span class="num">6</span>
+            </a>
+          </li>
+          <li>
+            <a href="#" class="items">
+              <div class="desc">游戏好玩
+              </div>
+              <span class="num">7</span>
+            </a>
+          </li>
+          <li>
+            <a href="#" class="items">
+              <div class="desc">游戏好玩
+              </div>
+            <span class="num">8</span>
+            </a>
+          </li>
+          <li>
+            <a href="#" class="items">
+              <div class="desc">游戏好玩
+              </div>
+              <span class="num">9</span>
+            </a>
+          </li>
+          <li>
+            <a href="#" class="items">
+              <div class="desc">游戏好玩
+              </div>
+              <span class="num">10</span>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <div class="panel mb10">
+        <div class="hd mb10">
+          <span class="tit">手机攻略</span>
+          <div class="relate-words">
+            <span>
+              <i></i>
+              相关词条
+            </span>
+            <a href="#">手游</a>
+            <a href="#">攻略</a>
+          </div>
+        </div>
+        <ul class="bd">
+          <li>
+            <a href="#" class="items">
+              <div class="desc">
+                什么游戏好玩什么游戏好玩什么游戏好玩什么游戏好玩什么游戏好玩
+              </div>
+              <div class="date">
+                2019-09-09
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="#" class="items">
+              <div class="desc">
+                什么游戏好玩
+              </div>
+              <div class="date">
+                2019-09-09
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="#" class="items">
+              <div class="desc">
+                什么游戏好玩
+              </div>
+              <div class="date">
+                2019-09-09
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="#" class="items">
+              <div class="desc">
+                什么游戏好玩
+              </div>
+              <div class="date">
+                2019-09-09
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="#" class="items">
+              <div class="desc">
+                什么游戏好玩
+              </div>
+              <div class="date">
+                2019-09-09
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="#" class="items">
+              <div class="desc">
+                什么游戏好玩
+              </div>
+              <div class="date">
+                2019-09-09
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="#" class="items">
+              <div class="desc">
+                什么游戏好玩
+              </div>
+              <div class="date">
+                2019-09-09
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="#" class="items">
+              <div class="desc">
+                什么游戏好玩
+              </div>
+              <div class="date">
+                2019-09-09
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="#" class="items">
+              <div class="desc">
+                什么游戏好玩
+              </div>
+              <div class="date">
+                2019-09-09
+              </div>
+            </a>
+          </li>
+          <li>
+            <a href="#" class="items">
+              <div class="desc">
+                什么游戏好玩
+              </div>
+              <div class="date">
+                2019-09-09
+              </div>
+            </a>
+          </li>
+        </ul>
+      </div>
     </div>
   </div>
 </div>
