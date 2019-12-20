@@ -42,7 +42,7 @@
         <ul>
           <li class="cur"><a href="/page/fenlei">问题分类</a></li>
           <li><a href="/page/jingxuan">问题精选</a></li>
-          <li><a href="/page/">有问有答</a></li>
+          <li><a href="/page/ku">问题库</a></li>
         </ul>
       </div>
     </div>
