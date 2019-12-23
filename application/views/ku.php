@@ -9,7 +9,7 @@
 <div class="container after-cls">
   <div class="breadcrumbs">
     <span>您所在的位置：</span>
-    <a href="/page/home">首页</a><em></em><a href="/page/jingxuan">问题精选</a>
+    <a href="/page/home">首页</a><em></em><a href="/page/ku">问题库</a>
   </div>
   <div class="after-cls">
     <div class="module-left">
@@ -80,7 +80,7 @@
           </a></p>
         </div>
         <div class="first-tit">
-          <span class="title">问题精选</span>
+          <span class="title">有问有答</span>
         </div>
         <div class="jingxuan-list">
           <div class="jingxuan-item after-cls">
@@ -157,7 +157,7 @@
     <div class="module-right">
       <div class="panel mb10">
         <div class="hd mb15">
-          <span class="tit">最新有问有答</span>
+          <span class="tit">最新问题精选</span>
         </div>
         <ul class="bd">
           <li>

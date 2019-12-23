@@ -772,7 +772,15 @@ input[type=radio]:disabled+i{
 input[type=radio]:checked:disabled+i{
     background: url() no-repeat;
 }
+/*ico*/
 
+.ico-{/**/
+  display: inline-block;
+  width: px;
+  height: px;
+  vertical-align: middle;
+  background: url() no-repeat 50%;
+}
 /*分页*/
 .pagination{
     font-size: 0;
@@ -2221,8 +2229,8 @@ input[type=radio]:checked:disabled+i{
   padding:10px 20px;
   .border-radius(4px);
   a{
+    display: inline-block;
     &.items{
-      display: inline-block;
       color: @base-color;
       padding:4px 5px;
       margin:5px 5px 5px 0;
@@ -2231,6 +2239,13 @@ input[type=radio]:checked:disabled+i{
         background:@base-color;
         .transition-all;
       }
+    }
+    &.btn{
+      color: #fff;
+      background:@base-color;
+      padding:6px 8px;
+      .border-radius(2px);
+      font-size: 14px;
     }
   }
 }

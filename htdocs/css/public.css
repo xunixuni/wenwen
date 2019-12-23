@@ -2867,6 +2867,15 @@ input[type=radio]:disabled + i {
 input[type=radio]:checked:disabled + i {
   background: url() no-repeat;
 }
+/*ico*/
+.ico- {
+  /**/
+  display: inline-block;
+  width: px;
+  height: px;
+  vertical-align: middle;
+  background: url() no-repeat 50%;
+}
 /*分页*/
 .pagination {
   font-size: 0;
@@ -4300,8 +4309,10 @@ input[type=radio]:checked:disabled + i {
   -moz-border-radius: 4px;
   border-radius: 4px;
 }
-.jingxuan-type a.items {
+.jingxuan-type a {
   display: inline-block;
+}
+.jingxuan-type a.items {
   color: #207561;
   padding: 4px 5px;
   margin: 5px 5px 5px 0;
@@ -4311,4 +4322,13 @@ input[type=radio]:checked:disabled + i {
   background: #207561;
   -webkit-transition: all linear 0.2s;
   transition: all linear 0.2s;
+}
+.jingxuan-type a.btn {
+  color: #fff;
+  background: #207561;
+  padding: 6px 8px;
+  -webkit-border-radius: 2px;
+  -moz-border-radius: 2px;
+  border-radius: 2px;
+  font-size: 14px;
 }
