@@ -24,13 +24,18 @@
           </div>
           <div class="bottom">
             <div class="wd">
-              <a href="javascript:;" class="">我要回答</a>
+              <a href="javascript:;" class="" id="question">我要回答</a>
               <div class="who">
                 <em>提问人：</em>
                 admin
               </div>
             </div>
-            <div class="">
+            <div class="time">
+              <div class="tags">
+                <a href="/page/tag" class="items">蛋糕</a>
+                <a href="/page/tag" class="items">翻糖蛋糕</a>
+                <a href="/page/tag" class="items">好吃吗</a>
+              </div>
               <div class="date">
                 <em>提问时间：</em>
                 2020-01-01
@@ -38,10 +43,10 @@
             </div>
           </div>
         </div>
-        <div class="bd">
+        <div class="bd" id="anwser" style="display:none;">
           <textarea name="name" rows="8" cols="80" placeholder="您可以在此处，输入您对该问题的看法和答案.."></textarea>
           <p>
-            <a href="javascript:;">提交回答</a>
+            <a href="javascript:;" id="submint">提交回答</a>
           </p>
         </div>
       </div>
@@ -373,6 +378,12 @@
 <script src="/htdocs/js/swiper.min.js?<?php echo CACHE_TIME; ?>"></script>
 <script type="text/javascript">
 $(function(){
+  $('#question').on('click',function () {
+    $('#anwser').show();
+  });
+  $('#submint').on('click',function () {
+    $('#anwser').hide();
+  });
 
 })
 </script>
