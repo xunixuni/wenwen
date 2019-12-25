@@ -14,22 +14,22 @@
   <div class="after-cls">
     <div class="module-left">
       <div class="main-pages">
-        <div class="pages-hb">
+        <div class="hb">
           <div class="tit">
             翻糖蛋糕好吃吗？
           </div>
           <div class="desc">
-            <p>问题补充</p>
-            <span>明明翻糖蛋糕看上去就很难吃啊，为什么还有人喜欢？</span>
+            <!-- <p>问题补充</p> -->
+            <span>明明翻糖蛋糕看上去就很难吃啊，为什么还有人喜欢？明明翻糖蛋糕看上去就很难吃啊，为什么还有人喜欢？明明翻糖蛋糕看上去就很难吃啊，为什么还有人喜欢？明明翻糖蛋糕看上去就很难吃啊，为什么还有人喜欢？</span>
           </div>
           <div class="bottom">
-            <p>
+            <div class="wd">
               <a href="javascript:;" class="">我要回答</a>
               <div class="who">
                 <em>提问人：</em>
                 admin
               </div>
-            </p>
+            </div>
             <div class="">
               <div class="date">
                 <em>提问时间：</em>
@@ -38,7 +38,7 @@
             </div>
           </div>
         </div>
-        <div class="pages-bd">
+        <div class="bd">
           <textarea name="name" rows="8" cols="80" placeholder="您可以在此处，输入您对该问题的看法和答案.."></textarea>
           <p>
             <a href="javascript:;">提交回答</a>
