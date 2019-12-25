@@ -780,7 +780,13 @@ input[type=radio]:checked:disabled+i{
     background: url() no-repeat;
 }
 /*ico*/
-
+.ico-class{/**/
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  vertical-align: middle;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA6UlEQVQ4T2NkoBAwUqifgSgDVry+oPaHifFbjLD+E3QLiTJg6YsLpxgYGEwZGRj9oiT0NyMbQpQBS15cWMnIwBDGwMDwhZGB0T9KQn8fzBCiDAApXvriwjwGBoZERgbGF/8YGAJjJPRPgMThBix9ebE+Wly/EWby3NdHeDn+cAdHSxougIktfXFhMgMDQw4DI8MdRoa/wVHixpfABix9ceEKAwODNogZLWEQAxX7D9H4Pz1awnAWzJBlL863/WdgrGRkYDgQJWHgSB0DwDZS4gViEhPBQMRnCMXRSHFCojgp4/Me0SkRlyEA7+xyEXVRscMAAAAASUVORK5CYII=) no-repeat 50%;
+}
 .ico-{/**/
   display: inline-block;
   width: px;
@@ -1571,6 +1577,12 @@ input[type=radio]:checked:disabled+i{
         .tit{
           float: left;
           margin-right:5px;
+          .point{
+            font-weight: bold;
+            color: @base-color;
+            margin-left:3px;
+            margin-right: 3px;
+          }
         }
         .relate-words{
           float:right;
@@ -1578,6 +1590,29 @@ input[type=radio]:checked:disabled+i{
       }
       ul{
         &.bd{
+          &.about{
+            li{
+              position: relative;
+              padding-left: 12px;
+              &::after{
+                content: '';
+                width: 3px;
+                height: 3px;
+                display: inline-block;
+                position: absolute;
+                top:36%;
+                left:0px;
+                background: #9eadb6;
+                .border-radius(5px);
+              }
+              .items{
+                .desc{
+                  width: auto;
+                  white-space:inherit;
+                }
+              }
+            }
+          }
           li{
             width:100%;
             margin-bottom:5px;
@@ -1676,6 +1711,35 @@ input[type=radio]:checked:disabled+i{
                 }
               }
             }
+          }
+        }
+      }
+    }
+    .panel-small{
+      border: 1px dashed #d3d4d6;
+      padding: 8px 18px;
+      border-radius: 6px;
+      box-shadow: 0px 0px 6px #f9f9f9;
+      .hd{
+        height: 24px;
+        line-height: 30px;
+        font-size: 16px;
+        color:@base-color;
+      }
+      .type{
+        padding-top: 15px;
+        a{
+          display: inline-block;
+          background: #f9f9f9;
+          margin: 0 5px 10px 0;
+          .border-radius(3px);
+          padding: 5px 10px;
+          color: #888;
+          &:hover{
+            color:#fff;
+            background: @base-color;
+            box-shadow: 0px 0px 6px #f9f9f9;
+            .transition-all;
           }
         }
       }
@@ -1894,155 +1958,6 @@ input[type=radio]:checked:disabled+i{
                     }
                 }
             }
-        }
-    }
-}
-
-// 新闻页
-.news-banner{
-    float: left;
-    position: relative;
-    width: 956px;
-    height: 366px;
-    overflow: hidden;
-    .swiper-pagination{
-        text-align: right;
-        padding-right: 10px;
-    }
-    .swiper-pagination-bullet{
-        width: 20px;
-        height: 8px;
-        display: inline-block;
-        border-radius: 4px;
-        background-color: #fff;
-        opacity: .62;
-    }
-    .swiper-pagination-bullet-active{
-        background-color: @base-color;
-        opacity: 1;
-    }
-    .text{
-        position: absolute;
-        left: 0;
-        bottom: 0;
-        width: 100%;
-        height: 97px;
-        font-size: 13px;
-        color: #fff;
-        background-color: rgba(0,0,0,.38);
-        h4{
-            font-size: 22px;
-            line-height: 32px;
-            padding: 12px 20px 0 20px;
-            .ellip;
-        }
-        .summary{
-            display: -webkit-box;
-            font-size: 13px;
-            line-height: 22px;
-            padding: 0 20px;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            -webkit-line-clamp: 2;
-            -webkit-box-orient: vertical;
-        }
-    }
-}
-.news-rank{
-    padding: 5px 0;
-    .item{
-        display: block;
-        line-height: 32px;
-        &:hover{
-            .col-gray6{
-                color: @base-color !important;
-            }
-        }
-    }
-}
-.news-type{
-    .news-type-left{
-        float: left;
-        width: 110px;
-        height: 352px;
-        a{
-            display: block;
-            width: 100%;
-            height: 88px;
-            line-height: 88px;
-            text-align: center;
-            font-size: 16px;
-            color: #333;
-            background-color: #f5f5f5;
-            &.cur{
-                color: #fff;
-                background-color: @base-color;
-            }
-        }
-    }
-    .news-type-right{
-        float: right;
-        width: 1100px;
-        .figure-list{
-            width: 1120px;
-            .item{
-                float: left;
-                width: 160px;
-                padding: 0 10px;
-                img{
-                    display: block;
-                    width: 113px;
-                    height: 113px;
-                    border-radius: 50%;
-                    margin: 0 auto;
-                }
-                p{
-                    width: 100%;
-                    font-size: 14px;
-                    color: #666;
-                    text-align: center;
-                    line-height: 34px;
-                    .ellip;
-                }
-            }
-        }
-    }
-}
-.news-sick{
-    width: 1225px;
-    .item{
-        float: left;
-        width: 230px;
-        height: 177px;
-        overflow: hidden;
-        padding: 15px;
-        border: 1px solid #f5f5f5;
-        background-color: #f5f5f5;
-        margin-right: 15px;
-        margin-bottom: 13px;
-        h4{
-            font-size: 14px;
-            color: #333;
-            text-align: center;
-            line-height: 28px;
-            padding: 0 10px;
-            .ellip;
-        }
-        .summary{
-            display: -webkit-box;
-            width: 100%;
-            height: 120px;
-            line-height: 24px;
-            font-size: 14px;
-            color: #999;
-            overflow: hidden;
-            text-overflow: ellipsis;
-            -webkit-line-clamp: 5;
-            -webkit-box-orient: vertical;
-        }
-        &:hover{
-            border: 1px solid #fc7358;
-            background-color: #fff;
         }
     }
 }
