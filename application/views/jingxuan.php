@@ -85,7 +85,7 @@
         <div class="jingxuan-list">
           <div class="jingxuan-item after-cls">
               <div class="desc">
-                <a href="" target="_blank" class="title">柿子和什么不能一起吃？</a>
+                <a href="/page/pages" target="_blank" class="title">柿子和什么不能一起吃？</a>
                 <div class="summary">猫咪除了在猫砂盆尿尿外，还有可能会在各种地方解决内急问题，比如墙角、柜子里、床底、甚至是你的被窝。一旦垫子、被子上沾染了猫尿的气味，就很难处理。虽然被罩，垫子套等可以清洗，可是渗透到棉花上的猫尿味却很难去除，直接把这床被子给扔了吧太可惜，可是又实在找不到好的去味方法，难道猫尿味就真的这么难去除吗？并不是呦。</div>
                 <p class="after-cls"><span class="tag"><a href="/page/tag">柿子</a><a href="/page/tag">不能</a><a href="/page/tag">一起吃</a><a href="#">什么</a></span>
                 <span class="num">0个回答</span>
@@ -94,7 +94,7 @@
           </div>
           <div class="jingxuan-item after-cls">
               <div class="desc">
-                <a href="" target="_blank" class="title">柿子和什么不能一起吃？</a>
+                <a href="/page/pages" target="_blank" class="title">柿子和什么不能一起吃？</a>
                 <div class="summary">猫咪除了在猫砂盆尿尿外，还有可能会在各种地方解决内急问题，比如墙角、柜子里、床底、甚至是你的被窝。一旦垫子、被子上沾染了猫尿的气味，就很难处理。虽然被罩，垫子套等可以清洗，可是渗透到棉花上的猫尿味却很难去除，直接把这床被子给扔了吧太可惜，可是又实在找不到好的去味方法，难道猫尿味就真的这么难去除吗？并不是呦。</div>
                 <p class="after-cls"><span class="tag"><a href="/page/tag">柿子</a><a href="/page/tag">不能</a><a href="/page/tag">一起吃</a><a href="#">什么</a></span>
                 <span class="num">0个回答</span>
@@ -103,7 +103,7 @@
           </div>
           <div class="jingxuan-item after-cls">
               <div class="desc">
-                <a href="" target="_blank" class="title">柿子和什么不能一起吃？</a>
+                <a href="/page/pages" target="_blank" class="title">柿子和什么不能一起吃？</a>
                 <div class="summary">猫咪除了在猫砂盆尿尿外，还有可能会在各种地方解决内急问题，比如墙角、柜子里、床底、甚至是你的被窝。一旦垫子、被子上沾染了猫尿的气味，就很难处理。虽然被罩，垫子套等可以清洗，可是渗透到棉花上的猫尿味却很难去除，直接把这床被子给扔了吧太可惜，可是又实在找不到好的去味方法，难道猫尿味就真的这么难去除吗？并不是呦。</div>
                 <p class="after-cls"><span class="tag"><a href="/page/tag">柿子</a><a href="/page/tag">不能</a><a href="/page/tag">一起吃</a><a href="#">什么</a></span>
                 <span class="num">0个回答</span>
@@ -112,7 +112,7 @@
           </div>
           <div class="jingxuan-item after-cls">
               <div class="desc">
-                <a href="" target="_blank" class="title">柿子和什么不能一起吃？</a>
+                <a href="/page/pages" target="_blank" class="title">柿子和什么不能一起吃？</a>
                 <div class="summary">猫咪除了在猫砂盆尿尿外，还有可能会在各种地方解决内急问题，比如墙角、柜子里、床底、甚至是你的被窝。一旦垫子、被子上沾染了猫尿的气味，就很难处理。虽然被罩，垫子套等可以清洗，可是渗透到棉花上的猫尿味却很难去除，直接把这床被子给扔了吧太可惜，可是又实在找不到好的去味方法，难道猫尿味就真的这么难去除吗？并不是呦。</div>
                 <p class="after-cls"><span class="tag"><a href="/page/tag">柿子</a><a href="/page/tag">不能</a><a href="/page/tag">一起吃</a><a href="#">什么</a></span>
                 <span class="num">0个回答</span>
@@ -121,7 +121,7 @@
           </div>
           <div class="jingxuan-item after-cls">
               <div class="desc">
-                <a href="" target="_blank" class="title">柿子和什么不能一起吃？</a>
+                <a href="/page/pages" target="_blank" class="title">柿子和什么不能一起吃？</a>
                 <div class="summary">猫咪除了在猫砂盆尿尿外，还有可能会在各种地方解决内急问题，比如墙角、柜子里、床底、甚至是你的被窝。一旦垫子、被子上沾染了猫尿的气味，就很难处理。虽然被罩，垫子套等可以清洗，可是渗透到棉花上的猫尿味却很难去除，直接把这床被子给扔了吧太可惜，可是又实在找不到好的去味方法，难道猫尿味就真的这么难去除吗？并不是呦。</div>
                 <p class="after-cls"><span class="tag"><a href="/page/tag">柿子</a><a href="/page/tag">不能</a><a href="/page/tag">一起吃</a><a href="#">什么</a></span>
                 <span class="num">0个回答</span>
@@ -130,7 +130,7 @@
           </div>
           <div class="jingxuan-item after-cls">
               <div class="desc">
-                <a href="" target="_blank" class="title">柿子和什么不能一起吃？</a>
+                <a href="/page/pages" target="_blank" class="title">柿子和什么不能一起吃？</a>
                 <div class="summary">猫咪除了在猫砂盆尿尿外，还有可能会在各种地方解决内急问题，比如墙角、柜子里、床底、甚至是你的被窝。一旦垫子、被子上沾染了猫尿的气味，就很难处理。虽然被罩，垫子套等可以清洗，可是渗透到棉花上的猫尿味却很难去除，直接把这床被子给扔了吧太可惜，可是又实在找不到好的去味方法，难道猫尿味就真的这么难去除吗？并不是呦。</div>
                 <p class="after-cls"><span class="tag"><a href="/page/tag">柿子</a><a href="/page/tag">不能</a><a href="/page/tag">一起吃</a><a href="#">什么</a></span>
                 <span class="num">0个回答</span>
@@ -161,7 +161,7 @@
         </div>
         <ul class="bd">
           <li>
-            <a href="#" class="items">
+            <a href="/page/pages" class="items">
               <div class="desc">
                 什么游戏好玩什么游戏好玩什么游戏好玩什么游戏好玩什么游戏好玩
               </div>
@@ -171,7 +171,7 @@
             </a>
           </li>
           <li>
-            <a href="#" class="items">
+            <a href="/page/pages" class="items">
               <div class="desc">
                 什么游戏好玩
               </div>
@@ -181,7 +181,7 @@
             </a>
           </li>
           <li>
-            <a href="#" class="items">
+            <a href="/page/pages" class="items">
               <div class="desc">
                 什么游戏好玩
               </div>
@@ -191,7 +191,7 @@
             </a>
           </li>
           <li>
-            <a href="#" class="items">
+            <a href="/page/pages" class="items">
               <div class="desc">
                 什么游戏好玩
               </div>
@@ -201,7 +201,7 @@
             </a>
           </li>
           <li>
-            <a href="#" class="items">
+            <a href="/page/pages" class="items">
               <div class="desc">
                 什么游戏好玩
               </div>
@@ -211,7 +211,7 @@
             </a>
           </li>
           <li>
-            <a href="#" class="items">
+            <a href="/page/pages" class="items">
               <div class="desc">
                 什么游戏好玩
               </div>
@@ -221,7 +221,7 @@
             </a>
           </li>
           <li>
-            <a href="#" class="items">
+            <a href="/page/pages" class="items">
               <div class="desc">
                 什么游戏好玩
               </div>
@@ -231,7 +231,7 @@
             </a>
           </li>
           <li>
-            <a href="#" class="items">
+            <a href="/page/pages" class="items">
               <div class="desc">
                 什么游戏好玩
               </div>
@@ -241,7 +241,7 @@
             </a>
           </li>
           <li>
-            <a href="#" class="items">
+            <a href="/page/pages" class="items">
               <div class="desc">
                 什么游戏好玩
               </div>
@@ -251,7 +251,7 @@
             </a>
           </li>
           <li>
-            <a href="#" class="items">
+            <a href="/page/pages" class="items">
               <div class="desc">
                 什么游戏好玩
               </div>
@@ -268,7 +268,7 @@
         </div>
         <ul class="bd img">
           <li>
-            <a href="#" class="items">
+            <a href="/page/pages" class="items">
               <div class="img">
                 <img src="http://iph.href.lu/325x160?text=325*160" width="325" height="160" />
               </div>
@@ -278,7 +278,7 @@
             </a>
           </li>
           <li>
-            <a href="#" class="items">
+            <a href="/page/pages" class="items">
               <div class="img">
                 <img src="http://iph.href.lu/325x160?text=325*160" width="325" height="160" />
               </div>
@@ -288,7 +288,7 @@
             </a>
           </li>
           <li>
-            <a href="#" class="items">
+            <a href="/page/pages" class="items">
               <div class="img">
                 <img src="http://iph.href.lu/325x160?text=325*160" width="325" height="160" />
               </div>

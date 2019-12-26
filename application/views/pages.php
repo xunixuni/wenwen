@@ -50,6 +50,149 @@
           </p>
         </div>
       </div>
+      <div class="main-anwser">
+        <div class="hd">
+          <div class="tit">共<font>2</font>个回答</div>
+          <div class="filter">
+            <select class="" name="">
+              <option value="">默认排序</option>
+              <option value="">评论排序</option>
+            </select>
+          </div>
+        </div>
+        <div class="bd">
+          <ul>
+            <li class="level_0">
+              <div class="img">
+                <img src="/htdocs/images/wenwen.png" alt="">
+              </div>
+              <div class="main">
+                <div class="cont">
+                  <div class="name">
+                    一起吃雪糕
+                    <em>(爱好吃来吃去，研究食物。)</em>
+                  </div>
+                  <div class="text">传统的翻糖蛋糕里面是用的磅蛋糕，这种蛋糕比一般奶油蛋糕硬，做翻糖蛋糕在适合不过。其实现在国内好多方子都根据中国人口味改动了。通常里面会加柠檬皮.香橙皮等来中和甜度，所以吃起会有柠檬，香橙的味道，其实还好啊。传统的翻糖蛋糕里面是用的磅蛋糕，这种蛋糕比一般奶油蛋糕硬，做翻糖蛋糕在适合不过。其实现在国内好多方子都根据中国人口味改动了。通常里面会加柠檬皮.香橙皮等来中和甜度，所以吃起会有柠檬，香橙的味道，其实还好啊。传统的翻糖蛋糕里面是用的磅蛋糕，这种蛋糕比一般奶油蛋糕硬，做翻糖蛋糕在适合不过。其实现在国内好多方子都根据中国人口味改动了。通常里面会加柠檬皮.香橙皮等来中和甜度，所以吃起会有柠檬，香橙的味道，其实还好啊。传统的翻糖蛋糕里面是用的磅蛋糕，这种蛋糕比一般奶油蛋糕硬，做翻糖蛋糕在适合不过。其实现在国内好多方子都根据中国人口味改动了。通常里面会加柠檬皮.香橙皮等来中和甜度，所以吃起会有柠檬，香橙的味道，其实还好啊。传统的翻糖蛋糕里面是用的磅蛋糕，这种蛋糕比一般奶油蛋糕硬，做翻糖蛋糕在适合不过。其实现在国内好多方子都根据中国人口味改动了。通常里面会加柠檬皮.香橙皮等来中和甜度，所以吃起会有柠檬，香橙的味道，其实还好啊。</div>
+                </div>
+                <div class="meta">
+                  <div class="time">
+                    2020-01-01 19:00:00
+                  </div>
+                  <a href="javascript:;">回复</a>
+                  <a href="javascript:;">收藏</a>
+                  <a href="javascript:;">分享</a>
+                  <a href="javascript:;">踩</a>
+                  <a href="javascript:;" class="zan no">赞
+                    <em class="count">9</em>
+                  </a>
+                </div>
+              </div>
+            </li>
+            <li class="level_1">
+              <div class="img">
+                <img src="/htdocs/images/wenwen.png" alt="">
+              </div>
+              <div class="main">
+                <div class="cont">
+                  <div class="name">
+                    大黄蜂
+                    <em>回复给</em>
+                    <font>一起吃雪糕</font>
+                  </div>
+                  <div class="text">传统的翻糖蛋糕里面是用的磅蛋糕，这种蛋糕比一般奶油蛋糕硬，做翻糖蛋糕在适合不过。其实现在国内好多方子都根据中国人口味改动了。通常里面会加柠檬皮.香橙皮等来中和甜度，所以吃起会有柠檬，香橙的味道，其实还好啊。</div>
+                </div>
+                <div class="meta">
+                  <div class="time">
+                    2020-01-01 19:00:00
+                  </div>
+                  <a href="javascript:;">回复</a>
+                  <a href="javascript:;">踩</a>
+                  <a href="javascript:;" class="zan">赞
+                    <em class="count">9</em>
+                  </a>
+                </div>
+              </div>
+            </li>
+            <li class="level_1">
+              <div class="img">
+                <img src="/htdocs/images/wenwen.png" alt="">
+              </div>
+              <div class="main">
+                <div class="cont">
+                  <div class="name">
+                    一起吃雪糕
+                    <em>回复给</em>
+                    <font>大黄蜂</font>
+                  </div>
+                  <div class="text">多谢多谢。</div>
+                </div>
+                <div class="meta">
+                  <div class="time">
+                    2020-01-01 19:00:00
+                  </div>
+                  <a href="javascript:;">回复</a>
+                  <a href="javascript:;">踩</a>
+                  <a href="javascript:;" class="zan">赞
+                    <!-- <em class="count">9</em> -->
+                  </a>
+                </div>
+              </div>
+            </li>
+            <li class="level_0">
+              <div class="img">
+                <img src="/htdocs/images/wenwen.png" alt="">
+              </div>
+              <div class="main">
+                <div class="cont">
+                  <div class="name">
+                    小白菜
+                    <em></em>
+                  </div>
+                  <div class="text">赞同楼上！</div>
+                </div>
+                <div class="meta">
+                  <div class="time">
+                    2020-01-01 19:00:00
+                  </div>
+                  <a href="javascript:;">回复</a>
+                  <a href="javascript:;">收藏</a>
+                  <a href="javascript:;">分享</a>
+                  <a href="javascript:;">踩</a>
+                  <a href="javascript:;" class="zan">赞
+                    <em class="count">9</em>
+                  </a>
+                </div>
+              </div>
+            </li>
+            <li class="level_0">
+              <div class="img">
+                <img src="/htdocs/images/wenwen.png" alt="">
+              </div>
+              <div class="main">
+                <div class="cont">
+                  <div class="name">
+                    大太阳
+                    <em>(行走的种草机。)</em>
+                  </div>
+                  <div class="text">传统的翻糖甜度，所以吃起会有柠檬，香橙的味道，其实还好啊。</div>
+                </div>
+                <div class="meta">
+                  <div class="time">
+                    2020-01-01 19:00:00
+                  </div>
+                  <a href="javascript:;">回复</a>
+                  <a href="javascript:;">收藏</a>
+                  <a href="javascript:;">分享</a>
+                  <a href="javascript:;">踩</a>
+                  <a href="javascript:;" class="zan">赞
+                    <em class="count">9</em>
+                  </a>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
       <div class="neighbour">
         <a href="#">
           <i class="ico-left"></i>
@@ -59,7 +202,7 @@
           <i class="ico-right"></i>
         </a>
       </div>
-      <div class="main-page-ft mt30">
+      <div class="main-page-ft mt30 mb30">
         <div class="hd">
           <div class="title">
             查看更多

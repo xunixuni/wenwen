@@ -4480,7 +4480,7 @@ input[type=radio]:checked:disabled + i {
   margin-top: -3px;
 }
 .main-page-ft {
-  background: #fafafa54;
+  background: #f7f9f8;
   padding: 10px 20px 20px 20px;
 }
 .main-page-ft .hd {
@@ -4535,4 +4535,127 @@ input[type=radio]:checked:disabled + i {
   float: right;
   color: #bbb;
   width: 75px;
+}
+.main-anwser .hd {
+  padding: 10px 0;
+  clear: both !important;
+}
+.main-anwser .hd .tit {
+  font-size: 18px;
+  display: inline-block;
+}
+.main-anwser .hd .tit font {
+  font-weight: bold;
+  display: inline-block;
+  margin: 0 5px;
+}
+.main-anwser .hd .filter {
+  float: right;
+  line-height: 20px;
+  padding-left: 10px;
+}
+.main-anwser .hd .filter select {
+  height: 24px;
+  line-height: 24px;
+  margin-top: -4px;
+}
+.main-anwser .bd {
+  width: 725px;
+  margin-right: 100px;
+}
+.main-anwser .bd ul {
+  margin-top: 15px;
+}
+.main-anwser .bd ul li {
+  display: box;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  justify-content: space-between;
+  justify-content: flex-start;
+  margin-bottom: 35px;
+  width: 100%;
+}
+.main-anwser .bd ul li.level_1 {
+  padding-left: 60px;
+}
+.main-anwser .bd ul li.level_1 .main .cont .text {
+  max-width: 670px;
+}
+.main-anwser .bd ul li .img {
+  width: 40px;
+  margin-right: 20px;
+  flex-shrink: 0;
+}
+.main-anwser .bd ul li .img img {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  border: 1px solid #ddd;
+  padding: 2px;
+}
+.main-anwser .bd ul li .main {
+  flex-grow: 1;
+}
+.main-anwser .bd ul li .main .cont {
+  display: inline-block;
+  padding: 15px;
+  background: #f7f7f7;
+  border-radius: 12px;
+  margin-bottom: 6px;
+}
+.main-anwser .bd ul li .main .cont .name {
+  margin-bottom: 5px;
+  color: #393939;
+  font-size: 14px;
+  font-weight: bold;
+}
+.main-anwser .bd ul li .main .cont .name em {
+  color: #666;
+  font-size: 12px;
+  font-weight: normal;
+}
+.main-anwser .bd ul li .main .cont .text {
+  word-break: break-all;
+  max-width: 730px;
+  font-size: 12px;
+  line-height: 20px;
+}
+.main-anwser .bd ul li .meta {
+  color: #bbb;
+  width: 825px;
+  font-size: 12px;
+  clear: both !important;
+}
+.main-anwser .bd ul li .meta .time {
+  display: inline-block;
+}
+.main-anwser .bd ul li .meta a {
+  display: inline-block;
+  color: #bbb;
+  padding: 3px 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+.main-anwser .bd ul li .meta a.zan {
+  background: #f7f7f7;
+  color: #207561;
+}
+.main-anwser .bd ul li .meta a.zan.no {
+  color: #bbb;
+  cursor: default;
+}
+.main-anwser .bd ul li .meta a.zan.no:hover {
+  background: #f7f7f7;
+  color: #bbb;
+}
+.main-anwser .bd ul li .meta a.zan:hover {
+  background: #207561;
+  color: #fff;
 }

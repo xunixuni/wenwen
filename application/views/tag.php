@@ -19,7 +19,7 @@
   <div class="jingxuan-list biaoqian">
     <div class="jingxuan-item after-cls">
         <div class="desc">
-          <a href="" target="_blank" class="title">柿子和什么不能一起吃？</a>
+          <a href="/page/pages" target="_blank" class="title">柿子和什么不能一起吃？</a>
           <p class="after-cls"><span class="tag"><a href="/page/tag">柿子</a><a href="/page/tag">不能</a><a href="/page/tag">一起吃</a><a href="#">什么</a></span>
           <span class="source">
             <a href="#">首页</a>
@@ -31,7 +31,7 @@
     </div>
     <div class="jingxuan-item after-cls">
         <div class="desc">
-          <a href="" target="_blank" class="title">柿子和什么不能一起吃？</a>
+          <a href="/page/pages" target="_blank" class="title">柿子和什么不能一起吃？</a>
           <p class="after-cls"><span class="tag"><a href="/page/tag">柿子</a><a href="/page/tag">不能</a><a href="/page/tag">一起吃</a><a href="#">什么</a></span>
           <span class="source">
             <a href="#">首页</a>
@@ -42,7 +42,7 @@
     </div>
     <div class="jingxuan-item after-cls">
         <div class="desc">
-          <a href="" target="_blank" class="title">柿子和什么不能一起吃？</a>
+          <a href="/page/pages" target="_blank" class="title">柿子和什么不能一起吃？</a>
           <p class="after-cls"><span class="tag"><a href="/page/tag">柿子</a><a href="/page/tag">不能</a><a href="/page/tag">一起吃</a><a href="#">什么</a></span>
             <span class="source">
               <a href="#">首页</a>
@@ -53,7 +53,7 @@
     </div>
     <div class="jingxuan-item after-cls">
         <div class="desc">
-          <a href="" target="_blank" class="title">柿子和什么不能一起吃？</a>
+          <a href="/page/pages" target="_blank" class="title">柿子和什么不能一起吃？</a>
           <p class="after-cls"><span class="tag"><a href="/page/tag">柿子</a><a href="/page/tag">不能</a><a href="/page/tag">一起吃</a><a href="#">什么</a></span>
           <span class="source">
             <a href="#">首页</a>
@@ -65,7 +65,7 @@
     </div>
     <div class="jingxuan-item after-cls">
         <div class="desc">
-          <a href="" target="_blank" class="title">柿子和什么不能一起吃？</a>
+          <a href="/page/pages" target="_blank" class="title">柿子和什么不能一起吃？</a>
           <p class="after-cls"><span class="tag"><a href="/page/tag">柿子</a><a href="/page/tag">不能</a><a href="/page/tag">一起吃</a><a href="#">什么</a></span>
           <span class="source">
             <a href="#">首页</a>
@@ -76,7 +76,7 @@
     </div>
     <div class="jingxuan-item after-cls">
         <div class="desc">
-          <a href="" target="_blank" class="title">柿子和什么不能一起吃？</a>
+          <a href="/page/pages" target="_blank" class="title">柿子和什么不能一起吃？</a>
           <p class="after-cls"><span class="tag"><a href="/page/tag">柿子</a><a href="/page/tag">不能</a><a href="/page/tag">一起吃</a><a href="#">什么</a></span>
             <span class="source">
               <a href="#">首页</a>
