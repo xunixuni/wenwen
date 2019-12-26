@@ -50,6 +50,230 @@
           </p>
         </div>
       </div>
+      <div class="neighbour">
+        <a href="#">
+          <i class="ico-left"></i>
+          现在什么生意赚钱？</a>
+        <a href="#">
+          翻糖蛋糕能放几天？
+          <i class="ico-right"></i>
+        </a>
+      </div>
+      <div class="main-page-ft mt30">
+        <div class="hd">
+          <div class="title">
+            查看更多
+            <font>翻糖蛋糕好吃吗</font>
+            有关的知识点
+          </div>
+        </div>
+        <div class="bd">
+          <ul class="mr30">
+            <li>
+              <a href="/page/pages" class="items">
+                <div class="desc">
+                  什么游戏好玩什么游戏好玩什么游戏好玩什么游戏好玩什么游戏好玩
+                </div>
+                <div class="date">
+                  2019-09-09
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="/page/pages" class="items">
+                <div class="desc">
+                  什么游戏好玩
+                </div>
+                <div class="date">
+                  2019-09-09
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="/page/pages" class="items">
+                <div class="desc">
+                  什么游戏好玩
+                </div>
+                <div class="date">
+                  2019-09-09
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="/page/pages" class="items">
+                <div class="desc">
+                  什么游戏好玩
+                </div>
+                <div class="date">
+                  2019-09-09
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="/page/pages" class="items">
+                <div class="desc">
+                  什么游戏好玩
+                </div>
+                <div class="date">
+                  2019-09-09
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="/page/pages" class="items">
+                <div class="desc">
+                  什么游戏好玩
+                </div>
+                <div class="date">
+                  2019-09-09
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="/page/pages" class="items">
+                <div class="desc">
+                  什么游戏好玩
+                </div>
+                <div class="date">
+                  2019-09-09
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="/page/pages" class="items">
+                <div class="desc">
+                  什么游戏好玩
+                </div>
+                <div class="date">
+                  2019-09-09
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="/page/pages" class="items">
+                <div class="desc">
+                  什么游戏好玩
+                </div>
+                <div class="date">
+                  2019-09-09
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="/page/pages" class="items">
+                <div class="desc">
+                  什么游戏好玩
+                </div>
+                <div class="date">
+                  2019-09-09
+                </div>
+              </a>
+            </li>
+          </ul>
+          <ul class="">
+            <li>
+              <a href="/page/pages" class="items">
+                <div class="desc">
+                  什么游戏好玩什么游戏好玩什么游戏好玩什么游戏好玩什么游戏好玩
+                </div>
+                <div class="date">
+                  2019-09-09
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="/page/pages" class="items">
+                <div class="desc">
+                  什么游戏好玩
+                </div>
+                <div class="date">
+                  2019-09-09
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="/page/pages" class="items">
+                <div class="desc">
+                  什么游戏好玩
+                </div>
+                <div class="date">
+                  2019-09-09
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="/page/pages" class="items">
+                <div class="desc">
+                  什么游戏好玩
+                </div>
+                <div class="date">
+                  2019-09-09
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="/page/pages" class="items">
+                <div class="desc">
+                  什么游戏好玩
+                </div>
+                <div class="date">
+                  2019-09-09
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="/page/pages" class="items">
+                <div class="desc">
+                  什么游戏好玩
+                </div>
+                <div class="date">
+                  2019-09-09
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="/page/pages" class="items">
+                <div class="desc">
+                  什么游戏好玩
+                </div>
+                <div class="date">
+                  2019-09-09
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="/page/pages" class="items">
+                <div class="desc">
+                  什么游戏好玩
+                </div>
+                <div class="date">
+                  2019-09-09
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="/page/pages" class="items">
+                <div class="desc">
+                  什么游戏好玩
+                </div>
+                <div class="date">
+                  2019-09-09
+                </div>
+              </a>
+            </li>
+            <li>
+              <a href="/page/pages" class="items">
+                <div class="desc">
+                  什么游戏好玩
+                </div>
+                <div class="date">
+                  2019-09-09
+                </div>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
     </div>
     <div class="module-right">
       <div class="panel-small mb10">
