@@ -5,16 +5,24 @@
 <link rel="stylesheet" href="/htdocs/css/swiper.min.css?<?php echo CACHE_TIME; ?>">
 </head>
 <body>
-<?php include_once('templete/menubar.php') ?>
-<div class="container after-cls">
-  <div class="breadcrumbs">
-    <span>您所在的位置：</span>
-    <a href="/page/home">首页</a><em></em><a href="/page/ku">问题库</a>
-  </div>
-  <div class="after-cls">
-    <div class="module-left">
-      <div class="">
-        <div class="jingxuan-type">
+<div class="header">
+  <div class="sub-nav">
+    <div class="container after-cls">
+      <a href="/page/home" class="nav-home">logo</a>
+      <div class="ku-type">
+        <a href="/page/tag" class="items">互联网</a>
+        <a href="/page/tag" class="items">美食节</a>
+        <a href="/page/tag" class="items">互联网</a>
+        <a href="/page/tag" class="items">cpu</a>
+        <a href="/page/tag" class="items">abc</a>
+        <a href="/page/tag" class="items">美食</a>
+        <a href="/page/tag" class="items">abc</a>
+        <a href="/page/tag" class="items">美食</a>
+        <a href="/page/tag" class="items">abc</a>
+        <a href="/page/tag" class="items">美食</a>
+        <a href="/page/tag" class="items">abc</a>
+        <a href="/page/tag" class="items">美食</a>
+        <div class="hidden" style="display:none;">
           <a href="/page/tag" class="items">互联网</a>
           <a href="/page/tag" class="items">美食节</a>
           <a href="/page/tag" class="items">互联网</a>
@@ -47,40 +55,50 @@
           <a href="/page/tag" class="items">美食</a>
           <a href="/page/tag" class="items">美食</a>
           <a href="/page/tag" class="items">美食</a>
-          <div class="hidden" style="display:none;">
-            <a href="/page/tag" class="items">互联网</a>
-            <a href="/page/tag" class="items">美食节</a>
-            <a href="/page/tag" class="items">互联网</a>
-            <a href="/page/tag" class="items">cpu</a>
-            <a href="/page/tag" class="items">abc</a>
-            <a href="/page/tag" class="items">美食</a>
-            <a href="/page/tag" class="items">美食</a>
-            <a href="/page/tag" class="items">美食</a>
-            <a href="/page/tag" class="items">美食</a>
-            <a href="/page/tag" class="items">美食</a>
-            <a href="/page/tag" class="items">美食</a>
-            <a href="/page/tag" class="items">美食</a>
-            <a href="/page/tag" class="items">美食</a>
-            <a href="/page/tag" class="items">美食</a>
-            <a href="/page/tag" class="items">美食</a>
-            <a href="/page/tag" class="items">美食</a>
-            <a href="/page/tag" class="items">美食</a>
-            <a href="/page/tag" class="items">美食</a>
-            <a href="/page/tag" class="items">美食</a>
-            <a href="/page/tag" class="items">美食</a>
-            <a href="/page/tag" class="items">美食</a>
-            <a href="/page/tag" class="items">美食</a>
-            <a href="/page/tag" class="items">美食</a>
-            <a href="/page/tag" class="items">美食</a>
-            <a href="/page/tag" class="items">美食</a>
-            <a href="/page/tag" class="items">美食</a>
-            <a href="/page/tag" class="items">美食</a>
-          </div>
-          <p class="ta-c pt10 pb5"><a href="javascript:;" class="btn" id="btn_more">展开更多 +</i>
-          </a></p>
+          <a href="/page/tag" class="items">美食</a>
+          <a href="/page/tag" class="items">美食</a>
+          <a href="/page/tag" class="items">美食</a>
+          <a href="/page/tag" class="items">美食</a>
+          <a href="/page/tag" class="items">美食</a>
+          <a href="/page/tag" class="items">美食</a>
+          <a href="/page/tag" class="items">美食</a>
+          <a href="/page/tag" class="items">美食</a>
+          <a href="/page/tag" class="items">美食</a>
+          <a href="/page/tag" class="items">美食</a>
+          <a href="/page/tag" class="items">美食</a>
+          <a href="/page/tag" class="items">美食</a>
+          <a href="/page/tag" class="items">美食</a>
+          <a href="/page/tag" class="items">美食</a>
+          <a href="/page/tag" class="items">美食</a>
+          <a href="/page/tag" class="items">美食</a>
+          <a href="/page/tag" class="items">美食</a>
+          <a href="/page/tag" class="items">美食</a>
+          <a href="/page/tag" class="items">美食</a>
         </div>
+        <a href="javascript:;" class="btn" id="btn_more">「展开更多」</i></a>
+      </div>
+      <div class="nav-item">
+        <ul>
+          <li class="cur"><a href="/page/home">
+            返回首页</a></li>
+          <li><a href="/page/register">注册</a></li>
+          <li><a href="/page/login">登录</a></li>
+          <li><a href="/page/about">帮助中心</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container after-cls">
+  <div class="breadcrumbs">
+    <span>您所在的位置：</span>
+    <a href="/page/home">首页</a><em></em><a href="/page/ku">问题库</a>
+  </div>
+  <div class="after-cls">
+    <div class="module-left">
+      <div class="">
         <div class="first-tit">
-          <span class="title">有问有答</span>
+          <span class="title">问答库</span>
         </div>
         <div class="jingxuan-list">
           <div class="jingxuan-item after-cls">
@@ -303,17 +321,16 @@
   </div>
 </div>
 <?php include_once('templete/pub_foot.php') ?>
-<?php include_once('templete/navigation.php') ?>
 <script src="/htdocs/js/swiper.min.js?<?php echo CACHE_TIME; ?>"></script>
 <script type="text/javascript">
 $(function(){
   $("#btn_more").on("click",function() {
-    var a = $(this).parent().siblings(".hidden");
-      if($(this).html() == "收起全文 -"){
+    var a = $(this).siblings(".hidden");
+      if($(this).html() == "「收起全文」"){
           $(a).hide();
-          $(this).html("展开更多 +");
+          $(this).html("「展开更多」").removeClass('on');
       }else {
-          $(this).html("收起全文 -");
+          $(this).html("「收起全文」").addClass('on');
           $(a).show();
       }
   });

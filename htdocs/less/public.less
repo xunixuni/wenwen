@@ -78,7 +78,7 @@ textarea{resize: none; overflow-y:auto;}
 
 /*变量*/
 @base-color: #207561;//基本色号
-
+@base-color2: #00a4ff;//基本色号
 
 /*常用的一些混合*/
 .ellip{//超出隐藏或换行
@@ -2569,5 +2569,107 @@ input[type=radio]:checked:disabled+i{
         }
       }
     }
+  }
+}
+.sub-nav{
+  background: #191e2b;
+  height: 50px;
+  position: relative;
+  .nav-home{
+    float: left;
+    color: #fff;
+    width:200px;
+    height: 50px;
+    line-height: 50px;
+    display: inline-block;
+    font-size: 34px;
+    text-align: center;
+    margin-right: 50px;
+  }
+  .ku-type{
+    float: left;
+    color: #fff;
+    line-height: 50px;
+    display: inline-block;
+    position: relative;
+    a{
+      color:#fff;
+      line-height: 50px;
+      display: inline-block;
+      margin-right: 15px;
+      &:hover{
+        color: @base-color2;
+      }
+    }
+    .hidden{
+      line-height: 24px;
+      position: absolute;
+      background: #fff;
+      border-color: #dedfe0;
+      box-shadow: 0 0 5px rgba(0,0,0,.15);
+      .transition-all;
+      padding:10px 0 10px 20px;
+      z-index: 1;
+      .border-radius(2px);
+      &::before{
+        content: '';
+        position: absolute;
+        font-size: 0;
+        width: 0;
+        height: 0;
+        border: 8px dashed transparent;
+        border-bottom-color: #f5f7fa;
+        border-bottom-style:solid;
+        margin-top: -26px;
+        right:49px;
+      }
+      a{
+        line-height: 24px;
+        color: #333;
+        font-size: 12px;
+        &:hover{
+          color: @base-color2;
+        }
+      }
+    }
+  }
+  .btn{
+    color: #fff;
+    display: inline-block;
+    &.on{
+      color: @base-color2;
+    }
+  }
+  .nav-item{
+    float: right;
+    margin-left:40px;
+    position: relative;
+    &::before{
+      position: absolute;
+      content: '';
+      height: 10px;
+      width: 1px;
+      background:#6d6d6d;
+      left: -30px;
+      top:20px;
+    }
+    li{
+      display: inline-block;
+      &:last-child{
+        a{
+          margin-right: 0px;
+        }
+      }
+    }
+    a{
+      color: #fff;
+      display: inline-block;
+      line-height: 50px;
+      margin-right: 20px;
+      &:hover{
+        color: @base-color2;
+      }
+    }
+
   }
 }
