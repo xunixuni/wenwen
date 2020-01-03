@@ -1,6 +1,6 @@
 <div class="footer">
     <div class="about-link">
-        <a href="/page/about" target="_blank">关于我们</a>
+        <a href="/page/about-wenwen" target="_blank">关于我们</a>
         <a href="/page/about" target="_blank">隐私声明</a>
         <a href="/page/about" target="_blank">联系我们</a>
         <a href="/page/sitemap" target="_blank">网站地图</a>
