@@ -1,7 +1,7 @@
 <div class="header">
   <div class="top-bar">
     <div class="container after-cls">
-      <div class="location">
+      <!-- <div class="location">
           <a href="javascript:;" class="current-location">杭州市</a>
           <div class="location-panel">
               <div class="title">请选择您所在的城市
@@ -15,7 +15,7 @@
 
               </div>
           </div>
-      </div>
+      </div> -->
       <div class="bar-item">
         <ul>
           <li><a href="/page/login">登录</a></li>

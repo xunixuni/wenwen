@@ -43,421 +43,2067 @@
 <div class="home-list">
   <!-- 问问列表 -->
   <div class="container after-cls">
-    <div class="hd">
-      <a href="#" class="nav-items cur">最新问题</a>
-      <a href="#" class="nav-items">精选问题</a>
-      <a href="#" class="nav-items">热门问题</a>
-      <a href="#" class="nav-items">未解决</a>
-      <a href="#" class="nav-items">已解决</a>
-    </div>
-    <div class="bd">
-      <ul class="question-list">
-        <li>
-          <div class="tit">
-            <span class="type">美食</span>
-            <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
-          </div>
-          <div class="tags">
-            <a href="/page/tag" class="items">柿子</a>
-            <a href="/page/tag" class="items">什么</a>
-            <a href="/page/tag" class="items">不能</a>
-            <a href="/page/tag" class="items">一起吃</a>
-          </div>
-          <div class="info">
-            <div class="num">
-              0个回答
+    <div class="tab-box" id="tab_box">
+      <div class="hd">
+        <a href="javascript:;" class="cur">最新问题</a>
+        <a href="javascript:;" class="">精选问题</a>
+        <a href="javascript:;" class="">热门问题</a>
+        <a href="javascript:;" class="">未解决</a>
+        <a href="javascript:;" class="">已解决</a>
+      </div>
+      <div class="bd">
+        <ul class="content">
+          <li class="li" style="display:block">
+            <ul class="question-list">
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+            </ul>
+            <div class="ft">
+              <div class="pagination">
+                  <ul>
+                      <li class="first"><a href="" data-ci-pagination-page="1" rel="start">«</a></li>
+                      <li class="pre"><a href="" data-ci-pagination-page="3" rel="prev">‹</a></li>
+                      <li><a href="" data-ci-pagination-page="2">2</a></li>
+                      <li><a href="" data-ci-pagination-page="3">3</a></li>
+                      <li class="current"><a>4</a></li>
+                      <li><a href="" data-ci-pagination-page="5">5</a></li>
+                      <li><a href="" data-ci-pagination-page="6">6</a></li>
+                      <li class="next"><a href="" data-ci-pagination-page="5" rel="next">›</a></li>
+                      <li class="last"><a href="" data-ci-pagination-page="261">»</a></li>
+                      <li><span>共89页，到第</span><input type="text"><span>页</span><input type="button" value="GO"></li>
+                  </ul>
+              </div>
             </div>
-            <div class="time">
-              2019-12-09 09:20:34
+          </li>
+          <li class="li" style="display:none;">
+            <ul class="question-list">
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">精选问题</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+            </ul>
+            <div class="ft">
+              <div class="pagination">
+                  <ul>
+                      <li class="first"><a href="" data-ci-pagination-page="1" rel="start">«</a></li>
+                      <li class="pre"><a href="" data-ci-pagination-page="3" rel="prev">‹</a></li>
+                      <li><a href="" data-ci-pagination-page="2">2</a></li>
+                      <li><a href="" data-ci-pagination-page="3">3</a></li>
+                      <li class="current"><a>4</a></li>
+                      <li><a href="" data-ci-pagination-page="5">5</a></li>
+                      <li><a href="" data-ci-pagination-page="6">6</a></li>
+                      <li class="next"><a href="" data-ci-pagination-page="5" rel="next">›</a></li>
+                      <li class="last"><a href="" data-ci-pagination-page="261">»</a></li>
+                      <li><span>共89页，到第</span><input type="text"><span>页</span><input type="button" value="GO"></li>
+                  </ul>
+              </div>
             </div>
-          </div>
-        </li>
-        <li>
-          <div class="tit">
-            <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
-          </div>
-          <div class="tags">
-            <a href="/page/tag" class="items">柿子</a>
-            <a href="/page/tag" class="items">什么</a>
-            <a href="/page/tag" class="items">不能</a>
-            <a href="/page/tag" class="items">一起吃</a>
-          </div>
-          <div class="info">
-            <div class="num">
-              0个回答
+          </li>
+          <li class="li" style="display:none;">
+            <ul class="question-list">
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">热门</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+            </ul>
+            <div class="ft">
+              <div class="pagination">
+                  <ul>
+                      <li class="first"><a href="" data-ci-pagination-page="1" rel="start">«</a></li>
+                      <li class="pre"><a href="" data-ci-pagination-page="3" rel="prev">‹</a></li>
+                      <li><a href="" data-ci-pagination-page="2">2</a></li>
+                      <li><a href="" data-ci-pagination-page="3">3</a></li>
+                      <li class="current"><a>4</a></li>
+                      <li><a href="" data-ci-pagination-page="5">5</a></li>
+                      <li><a href="" data-ci-pagination-page="6">6</a></li>
+                      <li class="next"><a href="" data-ci-pagination-page="5" rel="next">›</a></li>
+                      <li class="last"><a href="" data-ci-pagination-page="261">»</a></li>
+                      <li><span>共89页，到第</span><input type="text"><span>页</span><input type="button" value="GO"></li>
+                  </ul>
+              </div>
             </div>
-            <div class="time">
-              2019-12-09 09:20:34
+          </li>
+          <li class="li" style="display:none;">
+            <ul class="question-list">
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">未解决</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+            </ul>
+            <div class="ft">
+              <div class="pagination">
+                  <ul>
+                      <li class="first"><a href="" data-ci-pagination-page="1" rel="start">«</a></li>
+                      <li class="pre"><a href="" data-ci-pagination-page="3" rel="prev">‹</a></li>
+                      <li><a href="" data-ci-pagination-page="2">2</a></li>
+                      <li><a href="" data-ci-pagination-page="3">3</a></li>
+                      <li class="current"><a>4</a></li>
+                      <li><a href="" data-ci-pagination-page="5">5</a></li>
+                      <li><a href="" data-ci-pagination-page="6">6</a></li>
+                      <li class="next"><a href="" data-ci-pagination-page="5" rel="next">›</a></li>
+                      <li class="last"><a href="" data-ci-pagination-page="261">»</a></li>
+                      <li><span>共89页，到第</span><input type="text"><span>页</span><input type="button" value="GO"></li>
+                  </ul>
+              </div>
             </div>
-          </div>
-        </li>
-        <li>
-          <div class="tit">
-            <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
-          </div>
-          <div class="tags">
-            <a href="/page/tag" class="items">柿子</a>
-            <a href="/page/tag" class="items">什么</a>
-            <a href="/page/tag" class="items">不能</a>
-            <a href="/page/tag" class="items">一起吃</a>
-          </div>
-          <div class="info">
-            <div class="num">
-              0个回答
+          </li>
+          <li class="li" style="display:none;">
+            <ul class="question-list">
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">已解决</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+              <li>
+                <div class="tit">
+                  <span class="type">美食</span>
+                  <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
+                </div>
+                <div class="tags">
+                  <a href="/page/tag" class="items">柿子</a>
+                  <a href="/page/tag" class="items">什么</a>
+                  <a href="/page/tag" class="items">不能</a>
+                  <a href="/page/tag" class="items">一起吃</a>
+                </div>
+                <div class="info">
+                  <div class="num">
+                    0个回答
+                  </div>
+                  <div class="time">
+                    2019-12-09 09:20:34
+                  </div>
+                </div>
+              </li>
+            </ul>
+            <div class="ft">
+              <div class="pagination">
+                  <ul>
+                      <li class="first"><a href="" data-ci-pagination-page="1" rel="start">«</a></li>
+                      <li class="pre"><a href="" data-ci-pagination-page="3" rel="prev">‹</a></li>
+                      <li><a href="" data-ci-pagination-page="2">2</a></li>
+                      <li><a href="" data-ci-pagination-page="3">3</a></li>
+                      <li class="current"><a>4</a></li>
+                      <li><a href="" data-ci-pagination-page="5">5</a></li>
+                      <li><a href="" data-ci-pagination-page="6">6</a></li>
+                      <li class="next"><a href="" data-ci-pagination-page="5" rel="next">›</a></li>
+                      <li class="last"><a href="" data-ci-pagination-page="261">»</a></li>
+                      <li><span>共89页，到第</span><input type="text"><span>页</span><input type="button" value="GO"></li>
+                  </ul>
+              </div>
             </div>
-            <div class="time">
-              2019-12-09 09:20:34
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="tit">
-            <span class="type">美食</span>
-            <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
-          </div>
-          <div class="tags">
-            <a href="/page/tag" class="items">柿子</a>
-            <a href="/page/tag" class="items">什么</a>
-            <a href="/page/tag" class="items">不能</a>
-            <a href="/page/tag" class="items">一起吃</a>
-          </div>
-          <div class="info">
-            <div class="num">
-              0个回答
-            </div>
-            <div class="time">
-              2019-12-09 09:20:34
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="tit">
-            <span class="type">美食</span>
-            <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
-          </div>
-          <div class="tags">
-            <a href="/page/tag" class="items">柿子</a>
-            <a href="/page/tag" class="items">什么</a>
-            <a href="/page/tag" class="items">不能</a>
-            <a href="/page/tag" class="items">一起吃</a>
-          </div>
-          <div class="info">
-            <div class="num">
-              0个回答
-            </div>
-            <div class="time">
-              2019-12-09 09:20:34
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="tit">
-            <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
-          </div>
-          <div class="tags">
-            <a href="/page/tag" class="items">柿子</a>
-            <a href="/page/tag" class="items">什么</a>
-            <a href="/page/tag" class="items">不能</a>
-            <a href="/page/tag" class="items">一起吃</a>
-          </div>
-          <div class="info">
-            <div class="num">
-              0个回答
-            </div>
-            <div class="time">
-              2019-12-09 09:20:34
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="tit">
-            <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
-          </div>
-          <div class="tags">
-            <a href="/page/tag" class="items">柿子</a>
-            <a href="/page/tag" class="items">什么</a>
-            <a href="/page/tag" class="items">不能</a>
-            <a href="/page/tag" class="items">一起吃</a>
-          </div>
-          <div class="info">
-            <div class="num">
-              0个回答
-            </div>
-            <div class="time">
-              2019-12-09 09:20:34
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="tit">
-            <span class="type">美食</span>
-            <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
-          </div>
-          <div class="tags">
-            <a href="/page/tag" class="items">柿子</a>
-            <a href="/page/tag" class="items">什么</a>
-            <a href="/page/tag" class="items">不能</a>
-            <a href="/page/tag" class="items">一起吃</a>
-          </div>
-          <div class="info">
-            <div class="num">
-              0个回答
-            </div>
-            <div class="time">
-              2019-12-09 09:20:34
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="tit">
-            <span class="type">美食</span>
-            <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
-          </div>
-          <div class="tags">
-            <a href="/page/tag" class="items">柿子</a>
-            <a href="/page/tag" class="items">什么</a>
-            <a href="/page/tag" class="items">不能</a>
-            <a href="/page/tag" class="items">一起吃</a>
-          </div>
-          <div class="info">
-            <div class="num">
-              0个回答
-            </div>
-            <div class="time">
-              2019-12-09 09:20:34
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="tit">
-            <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
-          </div>
-          <div class="tags">
-            <a href="/page/tag" class="items">柿子</a>
-            <a href="/page/tag" class="items">什么</a>
-            <a href="/page/tag" class="items">不能</a>
-            <a href="/page/tag" class="items">一起吃</a>
-          </div>
-          <div class="info">
-            <div class="num">
-              0个回答
-            </div>
-            <div class="time">
-              2019-12-09 09:20:34
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="tit">
-            <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
-          </div>
-          <div class="tags">
-            <a href="/page/tag" class="items">柿子</a>
-            <a href="/page/tag" class="items">什么</a>
-            <a href="/page/tag" class="items">不能</a>
-            <a href="/page/tag" class="items">一起吃</a>
-          </div>
-          <div class="info">
-            <div class="num">
-              0个回答
-            </div>
-            <div class="time">
-              2019-12-09 09:20:34
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="tit">
-            <span class="type">美食</span>
-            <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
-          </div>
-          <div class="tags">
-            <a href="/page/tag" class="items">柿子</a>
-            <a href="/page/tag" class="items">什么</a>
-            <a href="/page/tag" class="items">不能</a>
-            <a href="/page/tag" class="items">一起吃</a>
-          </div>
-          <div class="info">
-            <div class="num">
-              0个回答
-            </div>
-            <div class="time">
-              2019-12-09 09:20:34
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="tit">
-            <span class="type">美食</span>
-            <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
-          </div>
-          <div class="tags">
-            <a href="/page/tag" class="items">柿子</a>
-            <a href="/page/tag" class="items">什么</a>
-            <a href="/page/tag" class="items">不能</a>
-            <a href="/page/tag" class="items">一起吃</a>
-          </div>
-          <div class="info">
-            <div class="num">
-              0个回答
-            </div>
-            <div class="time">
-              2019-12-09 09:20:34
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="tit">
-            <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
-          </div>
-          <div class="tags">
-            <a href="/page/tag" class="items">柿子</a>
-            <a href="/page/tag" class="items">什么</a>
-            <a href="/page/tag" class="items">不能</a>
-            <a href="/page/tag" class="items">一起吃</a>
-          </div>
-          <div class="info">
-            <div class="num">
-              0个回答
-            </div>
-            <div class="time">
-              2019-12-09 09:20:34
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="tit">
-            <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
-          </div>
-          <div class="tags">
-            <a href="/page/tag" class="items">柿子</a>
-            <a href="/page/tag" class="items">什么</a>
-            <a href="/page/tag" class="items">不能</a>
-            <a href="/page/tag" class="items">一起吃</a>
-          </div>
-          <div class="info">
-            <div class="num">
-              0个回答
-            </div>
-            <div class="time">
-              2019-12-09 09:20:34
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="tit">
-            <span class="type">美食</span>
-            <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
-          </div>
-          <div class="tags">
-            <a href="/page/tag" class="items">柿子</a>
-            <a href="/page/tag" class="items">什么</a>
-            <a href="/page/tag" class="items">不能</a>
-            <a href="/page/tag" class="items">一起吃</a>
-          </div>
-          <div class="info">
-            <div class="num">
-              0个回答
-            </div>
-            <div class="time">
-              2019-12-09 09:20:34
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="tit">
-            <span class="type">美食</span>
-            <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
-          </div>
-          <div class="tags">
-            <a href="/page/tag" class="items">柿子</a>
-            <a href="/page/tag" class="items">什么</a>
-            <a href="/page/tag" class="items">不能</a>
-            <a href="/page/tag" class="items">一起吃</a>
-          </div>
-          <div class="info">
-            <div class="num">
-              0个回答
-            </div>
-            <div class="time">
-              2019-12-09 09:20:34
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="tit">
-            <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
-          </div>
-          <div class="tags">
-            <a href="/page/tag" class="items">柿子</a>
-            <a href="/page/tag" class="items">什么</a>
-            <a href="/page/tag" class="items">不能</a>
-            <a href="/page/tag" class="items">一起吃</a>
-          </div>
-          <div class="info">
-            <div class="num">
-              0个回答
-            </div>
-            <div class="time">
-              2019-12-09 09:20:34
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="tit">
-            <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
-          </div>
-          <div class="tags">
-            <a href="/page/tag" class="items">柿子</a>
-            <a href="/page/tag" class="items">什么</a>
-            <a href="/page/tag" class="items">不能</a>
-            <a href="/page/tag" class="items">一起吃</a>
-          </div>
-          <div class="info">
-            <div class="num">
-              0个回答
-            </div>
-            <div class="time">
-              2019-12-09 09:20:34
-            </div>
-          </div>
-        </li>
-        <li>
-          <div class="tit">
-            <span class="type">美食</span>
-            <a href="/page/pages" class="desc">柿子和什么不能一起吃</a>
-          </div>
-          <div class="tags">
-            <a href="/page/tag" class="items">柿子</a>
-            <a href="/page/tag" class="items">什么</a>
-            <a href="/page/tag" class="items">不能</a>
-            <a href="/page/tag" class="items">一起吃</a>
-          </div>
-          <div class="info">
-            <div class="num">
-              0个回答
-            </div>
-            <div class="time">
-              2019-12-09 09:20:34
-            </div>
-          </div>
-        </li>
-      </ul>
-    </div>
-    <div class="ft">
-      <div class="pagination">
-          <ul>
-              <li class="first"><a href="" data-ci-pagination-page="1" rel="start">«</a></li>
-              <li class="pre"><a href="" data-ci-pagination-page="3" rel="prev">‹</a></li>
-              <li><a href="" data-ci-pagination-page="2">2</a></li>
-              <li><a href="" data-ci-pagination-page="3">3</a></li>
-              <li class="current"><a>4</a></li>
-              <li><a href="" data-ci-pagination-page="5">5</a></li>
-              <li><a href="" data-ci-pagination-page="6">6</a></li>
-              <li class="next"><a href="" data-ci-pagination-page="5" rel="next">›</a></li>
-              <li class="last"><a href="" data-ci-pagination-page="261">»</a></li>
-              <li><span>共89页，到第</span><input type="text"><span>页</span><input type="button" value="GO"></li>
-          </ul>
+          </li>
+        </ul>
       </div>
     </div>
   </div>
@@ -1114,19 +2760,27 @@
 <script src="/htdocs/js/swiper.min.js?<?php echo CACHE_TIME; ?>"></script>
 <script type="text/javascript">
 $(function(){
+  //banner
+  var mySwiper = new Swiper ('.home-banner', {
+      direction: 'horizontal', // 水平切换选项
+      loop: true, // 循环模式选项
+      autoplay:true,
 
-    var mySwiper = new Swiper ('.home-banner', {
-        direction: 'horizontal', // 水平切换选项
-        loop: true, // 循环模式选项
-        autoplay:true,
-
-        // 如果需要分页器
-        pagination: {
-            el: '.swiper-pagination',
-            clickable :true,
-        },
-    })
-
+      // 如果需要分页器
+      pagination: {
+          el: '.swiper-pagination',
+          clickable :true,
+      },
+  })
+  //切换tab
+  $("#tab_box").children('.hd').find('a').on('click',function() {
+     console.log('a');
+     $(this).addClass('cur').siblings().removeClass('cur');
+     var index = $(this).index();
+     number = index;
+     $('.tab-box .bd .li').hide();
+     $('.tab-box .bd .li:eq(' + index + ')').show();
+   });
 })
 </script>
 </body>
