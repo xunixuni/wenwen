@@ -9,7 +9,7 @@
 <!-- 帮助中心 -->
 <div class="container mb20">
   <div class="breadcrumbs"><a href="/">首页</a><em></em>关于问问网</div>
-  <div class="after-cls" style="border:1px solid #f5f5f5;">
+  <div class="after-cls" style="border:1px solid #f5f5f5;background: #fafafa;">
     <div class="help-nav">
       <div class="bd">
           <ul>

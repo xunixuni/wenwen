@@ -4316,10 +4316,8 @@ input[type=radio]:checked:disabled + i {
   color: #00a4ff;
 }
 .help-nav {
-  background: #fafafa;
-  width: 262px;
+  width: 286px;
   float: left;
-  margin-right: 15px;
 }
 .help-nav .bd {
   width: 100%;
@@ -4346,7 +4344,7 @@ input[type=radio]:checked:disabled + i {
   background: #909090;
   width: 1px;
   height: 60px;
-  left: 0px;
+  left: -1px;
   top: 0px;
   display: none;
 }
@@ -4360,6 +4358,8 @@ input[type=radio]:checked:disabled + i {
 .help-r-content {
   float: right;
   width: 922px;
+  padding-left: 30px;
+  background: #fff;
 }
 .help-r-content .hb {
   margin-bottom: 10px;
