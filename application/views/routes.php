@@ -46,6 +46,11 @@ table tr:hover {
         <td align="right">首页</td>
         <td><a href="<?php echo base_url() ?>page/home" target="_blank"><?php echo base_url() ?>page/home</a></td>
     </tr>
+    <tr>
+        <td align="right">手机首页</td>
+        <td><a href="<?php echo base_url() ?>/mobile/home" target="_blank"><?php echo base_url() ?>mobile/home</a></td>
+    </tr>
+
 </table>
 <!-- <table>
     <tr style="color: #f00;"><th align="right" width="200">标题</th><th align="left">管理员后台路由</th></tr>
