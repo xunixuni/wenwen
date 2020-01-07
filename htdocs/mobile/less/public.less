@@ -1352,6 +1352,7 @@ table{ border-collapse:collapse;border-spacing: 0;}/* 表格边线及内间距 *
     }
   }
 }
+/*精选*/
 .jingxuan-list{
   background: #fff;
   padding:.2rem .3rem;
@@ -1462,5 +1463,73 @@ table{ border-collapse:collapse;border-spacing: 0;}/* 表格边线及内间距 *
         }
       }
     }
+  }
+}
+/*库*/
+.ku-top{
+  background: #191e2b;
+  color: #fff;
+  padding:.8rem .3rem .2rem .3rem;
+}
+.breadcrumb{
+  margin-bottom: .15rem;
+  a{
+    display:inline-block;
+    color: #fff;
+    font-size: 13px;
+    &::after{
+      content:'>';
+      margin-left: .05rem;
+    }
+    &:last-of-type{
+      &::after{
+        display: none;
+      }
+    }
+  }
+}
+.ku-biaoqian{
+  position: relative;
+  a{
+    display: inline-block;
+    margin-right: .1rem;
+    color: #fff;
+    font-size: 14px;
+    &.btn{
+      color: @base-color2;
+      margin-right: 0px;
+      position: absolute;
+      right:-.15rem;
+      top:0;
+      background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABQElEQVRIS+2UsUoDQRRFz/0IKxs7QX/Cn1AEBRERREQQEUFBMaBFijQp0qRIoUUsLfRLtNXK0sr+ysiO6CaTGRfSiNMN++ac2eHdJ6a8NGU+/4LsC38+ke05YAm4k/SWPTWhwPYMsAzcS3qJgmcgSB6BFUlPTSS2F4BbYBF4lTSr6vZBEFcjSQ0eWfPxDy6As6aSBLwl6fyrTW1fAie/lSTgV5JOA+tHDmy3gaNSSQLelnQcGSNBs90BDnKSBLwj6fB7g4xNsu0usJeSJOBdSfv17kuOCts9YKcuqfaxFePnnqTdca09cRbZ7gNbNUnYhj6Pqy9pO5Wb7LCzPQA2EoCBpM1JocwKqlFyDazVQDeS1nOJLxJUkmEYIxVwKGk1Bx/JQe6A7TDE3iU95GqTOSg9WFpX/ESlwOIcNAX+PcEHbTx3PB9u9DUAAAAASUVORK5CYII=) no-repeat center right;
+      background-size: 50%;
+      width: .5rem;
+      height: .5rem;
+      -webkit-transition: -webkit-transform .28s linear;
+      transition: -webkit-transform .28s linear;
+      transition: transform .28s linear;
+      transition: transform .28s linear,-webkit-transform .28s linear;
+      &.active{
+        background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAABfklEQVRIS+2TO0tdQRSFv4WWadQfoKSxshCSSiEWFjYWpkjhOxhJGRBRLGysJBYGiyC+wBd2StJYpEmVxia1CFaWgghWCksm7CPHq/eei3IhhdPtmb3WN3udOaLGSzX25wVQmPD/E5HtOmAMuJK0W3j1aKhqAtsNwCbQG7qvkqargRQCbDeH+bsSww1JaaKKqyLAdluYt4fLX+AGeBP1T2BI0mU5SlmA7Q5gC3gd4j/AaAC+Az25/UFJp49BHgXYTuIdoClEv4CPks5SbfsVsAwMxPkxkCBHpZAHANsfgPRK6qP5R7q5pItSse1vwJfYP4+4DvN99wC2x4GVXMMeMCLpulzGtmeBudz5sKTtrL4D2J4EFnKN65I+Fb2SiOxzRJa1T0haTMU/gO0+YD9ntiQpG70aRvJ4D6wCjSHol7SXAdJN02Fa85JmqnItabLdCawBrcCUpIUM0AW8BU4kHTzFPNPYbgG6w+t34Z/8HNjdN3iuSSX9ywSF6dY8oluvMWsZjUv69AAAAABJRU5ErkJggg==) no-repeat center right;
+        background-size:50%;
+      }
+    }
+  }
+}
+.ku-hidden{
+  box-shadow:0 0 14px 0px #000;
+  width:7.6rem;
+  position: absolute;
+  background: #191e2b;
+  color: #fff;
+  left:-.4rem;
+  right:-.4rem;
+  padding: 0 .4rem .4rem .4rem;
+  a{
+    display: inline-block;
+    margin-right: .1rem;
+    margin-bottom: .1rem;
+    color: #fff;
+    font-size: 14px;
   }
 }
