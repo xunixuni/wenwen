@@ -1533,3 +1533,78 @@ table{ border-collapse:collapse;border-spacing: 0;}/* 表格边线及内间距 *
     font-size: 14px;
   }
 }
+.tag-all{
+  margin:.3rem;
+  background: #fff;
+  padding:.3rem;
+  .hd{
+    text-align: center;
+    border-bottom: 1px solid #f3f3f3;
+    margin-bottom: .45rem;
+    font-size: 16px;
+    padding-bottom: .4rem;
+    p{
+      text-align: center;
+      margin-bottom: .2rem;
+      color: #666;
+      &.bottom{
+        margin-top: .4rem;
+        font-size: 14px;
+        margin-bottom: 0px;
+        font{
+          font-weight: bold;
+          color: @base-color;
+          display: inline-block;
+          margin:0 .1rem ;
+        }
+      }
+    }
+    a{
+      display: inline-block;
+      margin:0 .15rem .15rem .15rem;
+      text-transform: uppercase;
+      color: #666;
+      font-size: 16px;
+      &.on{
+        color: @base-color;
+        font-weight: bold;
+      }
+    }
+  }
+  .bd{
+    .display-flex;
+    margin-bottom: .5rem;
+    justify-content: space-between;
+    justify-content: flex-start;
+    .title{
+      font-size: 24px;
+      color:#666;
+      text-transform: uppercase;
+      flex-shrink: 0;
+      width: .52rem;
+    }
+    .content{
+      padding: .1rem;
+      border-left: 8px solid #f9f9f9;
+      a{
+        display: inline-block;
+        position:relative;
+        background: #f9f9f9;
+        .border-radius(3px);
+        padding:.1rem;
+        color: #888;
+        font-size: 14px;
+        line-height: .32rem;
+        padding-left: .32rem;
+        margin: 0 .1rem .1rem;
+        &::before{
+          content: '#';
+          color: @base-color;
+          margin-right: .03rem;
+          left: .1rem;
+          position: absolute;
+        }
+      }
+    }
+  }
+}

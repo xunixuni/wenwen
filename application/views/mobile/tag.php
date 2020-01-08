@@ -18,7 +18,11 @@
         </div>
       </div>
       <div class="jinxuan-list biaoqian">
-        <div class="title">关于<em class="col-default">美食</em>标签的热门问题</div>
+        <div class="title">关于<em class="col-default">美食</em>标签的热门问题
+          <p class="ta-c mt5">
+            <a href="/mobile/tag-all" class="col-default f13">更多问答标签	&rarr;</a>
+          </p>
+        </div>
         <div class="jinxuan-item">
           <div class="desc">
             <a href="/mobile/pages" class="tit">柿子和什么不能一起吃？</a>
