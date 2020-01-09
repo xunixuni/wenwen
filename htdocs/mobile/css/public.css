@@ -3669,3 +3669,272 @@ table {
   left: .1rem;
   position: absolute;
 }
+/*登录*/
+.login-wrap {
+  background: url(../images/login-bg.png) no-repeat 16% 16% #010103;
+  position: relative;
+}
+.login-switch {
+  position: absolute;
+  left: .5rem;
+  right: .5rem;
+  width: auto;
+  padding: .4rem;
+  background: #fff;
+  -webkit-border-radius: 0.04rem;
+  -moz-border-radius: 0.04rem;
+  border-radius: 0.04rem;
+  -webkit-transform: translateY(76px);
+  -ms-transform: translateY(76px);
+  transform: translateY(76px);
+  opacity: 0;
+  -webkit-animation: login-entry 1s ease 0.5s forwards;
+  animation: login-entry 1s ease 0.5s forwards;
+}
+.login-switch .weui-cells::after {
+  display: none;
+}
+.login-switch .weui-cells::before {
+  display: none;
+}
+.login-switch .weui-cells .weui-cell {
+  padding: 0px;
+  line-height: .8rem;
+  height: .8rem;
+  border-bottom: 1px solid #cccccc;
+  margin-bottom: .4rem;
+}
+.login-switch .weui-cells .weui-cell:last-child {
+  margin-bottom: .2rem;
+}
+.login-switch .weui-cells .weui-cell::after {
+  display: none;
+}
+.login-switch .weui-cells .weui-cell::before {
+  display: none;
+}
+.login-switch .weui-cells .weui-cell .weui-vcode-btn {
+  color: #207561 !important;
+  background: #fff;
+  text-align: center;
+  font-size: 14px;
+  height: .52rem;
+  line-height: .52rem;
+  margin-left: 0px;
+  margin-top: -0.23rem;
+  border: none;
+  width: 2rem;
+  border-left: 1px solid #ccc;
+}
+.login-switch .weui-cells .weui-cell .weui-vcode-btn.forbid {
+  color: #666 !important;
+}
+.login-switch .btn {
+  background: #207561;
+  color: #fff !important;
+  width: 100% !important;
+  -webkit-border-radius: 0.4rem;
+  -moz-border-radius: 0.4rem;
+  border-radius: 0.4rem;
+  display: inline-block !important;
+  *display: inline !important;
+  *zoom: 1 !important;
+  text-align: center;
+  font-size: 16px;
+  line-height: .8rem;
+  height: .8rem;
+  box-shadow: 0px 0.07rem 0.21rem 0px rgba(19, 66, 107, 0.55);
+  margin-bottom: .3rem;
+}
+.forgot-mima-box {
+  position: absolute;
+  left: .5rem;
+  right: .5rem;
+  width: auto;
+  padding: .4rem;
+  background: #fff;
+  -webkit-border-radius: 0.04rem;
+  -moz-border-radius: 0.04rem;
+  border-radius: 0.04rem;
+  -webkit-transform: translateY(76px);
+  -ms-transform: translateY(76px);
+  transform: translateY(76px);
+  opacity: 0;
+  -webkit-animation: login-entry 1s ease 0.5s forwards;
+  animation: login-entry 1s ease 0.5s forwards;
+}
+.forgot-mima-box .weui-cells {
+  margin-top: 0rem;
+}
+.forgot-mima-box .weui-cells::after {
+  display: none;
+}
+.forgot-mima-box .weui-cells::before {
+  display: none;
+}
+.forgot-mima-box .weui-cells .weui-cell {
+  padding: 0px;
+  line-height: .8rem;
+  height: .8rem;
+  margin-bottom: .4rem;
+  border-bottom: 1px solid #cccccc;
+}
+.forgot-mima-box .weui-cells .weui-cell::after {
+  display: none;
+}
+.forgot-mima-box .weui-cells .weui-cell::before {
+  display: none;
+}
+.forgot-mima-box .weui-cells .weui-cell:last-child {
+  margin-bottom: .2rem;
+}
+.forgot-mima-box .weui-cells .weui-cell.weui-cell_vcode .weui-cell__ft {
+  position: relative;
+}
+.forgot-mima-box .weui-cells .weui-cell.weui-cell_vcode .weui-cell__ft::before {
+  content: '';
+  width: 1px;
+  height: .4rem;
+  background: #ccc;
+  position: absolute;
+  left: -1px;
+  top: .12rem;
+  display: inline-block;
+}
+.forgot-mima-box .weui-cells .weui-cell .weui-vcode-btn {
+  color: #207561 !important;
+  background: #fff;
+  text-align: center;
+  font-size: 14px;
+  height: .52rem;
+  line-height: .52rem;
+  margin-left: 0px;
+  margin-top: -0.23rem;
+  border: none;
+  width: 2rem;
+  -webkit-appearance: none ;
+  /*解决iphone safari上的圆角问题*/
+}
+.forgot-mima-box .weui-cells .weui-cell .weui-vcode-btn.forbid {
+  color: #666 !important;
+}
+.forgot-mima-box .btn {
+  background: #207561;
+  color: #fff !important;
+  width: 100% !important;
+  -webkit-border-radius: 0.4rem;
+  -moz-border-radius: 0.4rem;
+  border-radius: 0.4rem;
+  display: inline-block !important;
+  *display: inline !important;
+  *zoom: 1 !important;
+  text-align: center !important;
+  font-size: 16px;
+  line-height: .8rem;
+  height: .8rem;
+  box-shadow: 0px 0.07rem 0.21rem 0px rgba(19, 66, 107, 0.55);
+  margin-bottom: .3rem;
+  margin-top: .77rem;
+}
+.reg-box {
+  position: absolute;
+  left: .5rem;
+  right: .5rem;
+  width: auto;
+  padding: .4rem;
+  background: #fff;
+  -webkit-border-radius: 0.04rem;
+  -moz-border-radius: 0.04rem;
+  border-radius: 0.04rem;
+  -webkit-transform: translateY(76px);
+  -ms-transform: translateY(76px);
+  transform: translateY(76px);
+  opacity: 0;
+  -webkit-animation: login-entry 1s ease 0.5s forwards;
+  animation: login-entry 1s ease 0.5s forwards;
+}
+.reg-box .weui-cells {
+  margin-top: 0rem;
+}
+.reg-box .weui-cells::after {
+  display: none;
+}
+.reg-box .weui-cells::before {
+  display: none;
+}
+.reg-box .weui-cells .weui-cell {
+  padding: 0px;
+  border-bottom: 1px solid #cccccc;
+  line-height: .8rem;
+  height: .8rem;
+  margin-bottom: .4rem;
+}
+.reg-box .weui-cells .weui-cell::after {
+  display: none;
+}
+.reg-box .weui-cells .weui-cell::before {
+  display: none;
+}
+.reg-box .weui-cells .weui-cell:last-child {
+  margin-bottom: .2rem;
+}
+.reg-box .weui-cells .weui-cell.weui-cell_vcode .weui-cell__ft {
+  position: relative;
+}
+.reg-box .weui-cells .weui-cell.weui-cell_vcode .weui-cell__ft::before {
+  content: '';
+  width: 1px;
+  height: .4rem;
+  background: #ccc;
+  position: absolute;
+  left: -1px;
+  top: .12rem;
+  display: inline-block;
+}
+.reg-box .weui-cells .weui-cell .weui-vcode-btn {
+  color: #207561 !important;
+  background: #fff;
+  text-align: center;
+  font-size: 14px;
+  height: .52rem;
+  line-height: .52rem;
+  margin-left: 0px;
+  margin-top: -0.23rem;
+  border: none;
+  width: 2rem;
+  -webkit-appearance: none ;
+  /*解决iphone safari上的圆角问题*/
+}
+.reg-box .weui-cells .weui-cell .weui-vcode-btn.forbid {
+  color: #666 !important;
+}
+.reg-box .btn {
+  background: #207561;
+  color: #fff !important;
+  width: 100% !important;
+  -webkit-border-radius: 0.4rem;
+  -moz-border-radius: 0.4rem;
+  border-radius: 0.4rem;
+  display: inline-block !important;
+  *display: inline !important;
+  *zoom: 1 !important;
+  text-align: center !important;
+  font-size: 16px;
+  line-height: .8rem;
+  height: .8rem;
+  box-shadow: 0px 0.07rem 0.21rem 0px rgba(19, 66, 107, 0.55);
+  margin-bottom: .3rem;
+  margin-top: .3rem;
+}
+@keyframes login-entry {
+  0% {
+    -webkit-transform: translateY(76px);
+    transform: translateY(76px);
+    opacity: 0;
+  }
+  to {
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+    opacity: 1;
+  }
+}

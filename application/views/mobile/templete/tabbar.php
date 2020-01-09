@@ -11,7 +11,7 @@
         <a href="<?php echo base_url() ?>mobile/jingxuan" target="_parent" class="item">
           <i class="ico-tab-jx"></i>
           <p>精选</p></a>
-        <a href="javascript:;" id="open_login" class="open-popup item">
+        <a href="<?php echo base_url() ?>mobile/login" class="item" target="_parent">
           <i class="ico-tab-wd"></i>
           <p>我的</p></a>
     </div>

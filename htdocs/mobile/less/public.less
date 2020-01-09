@@ -1608,3 +1608,259 @@ table{ border-collapse:collapse;border-spacing: 0;}/* 表格边线及内间距 *
     }
   }
 }
+/*登录*/
+.login-wrap{
+  background:url(../images/login-bg.png) no-repeat 16% 16% #010103;
+  position:relative;
+}
+.login-switch{
+  position: absolute;
+  left: .5rem;
+  right: .5rem;
+  width: auto;
+  padding: .4rem;
+  background: #fff;
+  .border-radius(.04rem);
+  -webkit-transform: translateY(76px);
+  -ms-transform: translateY(76px);
+  transform: translateY(76px);
+  opacity: 0;
+  -webkit-animation: login-entry 1s ease .5s forwards;
+  animation: login-entry 1s ease .5s forwards;
+  .weui-cells{
+    &::after{
+      display:none;
+    }
+    &::before{
+      display:none;
+    }
+    .weui-cell{
+      padding:0px;
+      line-height: .8rem;
+      height:.8rem;
+      border-bottom:1px solid #cccccc;
+      margin-bottom: .4rem;
+      &:last-child{
+        margin-bottom:.2rem;
+      }
+      &::after{
+        display:none;
+      }
+      &::before{
+        display:none;
+      }
+      .weui-vcode-btn{
+        .col-default;
+        background:#fff;
+        text-align: center;
+        font-size:14px;
+        height:.52rem;
+        line-height:.52rem;
+        margin-left: 0px;
+        margin-top:-.23rem;
+        border:none;
+        width:2rem;
+        border-left:1px solid #ccc;
+        &.forbid{
+          .col-gray6;
+        }
+      }
+    }
+  }
+  .btn{
+    background:@base-color;
+    .col-white;
+    .w-all;
+    .border-radius(.4rem);
+    .in-block;
+    text-align: center;
+    font-size:16px;
+    line-height:.8rem;
+    height:.8rem;
+    box-shadow: 0px .07rem .21rem 0px rgba(19, 66, 107, 0.55);
+    margin-bottom:.3rem;
+  }
+}
+.forgot-mima-box{
+  position: absolute;
+  left: .5rem;
+  right: .5rem;
+  width: auto;
+  padding: .4rem;
+  background: #fff;
+  .border-radius(.04rem);
+  -webkit-transform: translateY(76px);
+  -ms-transform: translateY(76px);
+  transform: translateY(76px);
+  opacity: 0;
+  -webkit-animation: login-entry 1s ease .5s forwards;
+  animation: login-entry 1s ease .5s forwards;
+  .weui-cells{
+    margin-top:0rem;
+    &::after{
+      display:none;
+    }
+    &::before{
+      display:none;
+    }
+    .weui-cell{
+      padding:0px;
+      line-height: .8rem;
+      height:.8rem;
+      margin-bottom: .4rem;
+      border-bottom:1px solid #cccccc;
+      &::after{
+        display:none;
+      }
+      &::before{
+        display:none;
+      }
+      &:last-child{
+        margin-bottom:.2rem;
+      }
+      &.weui-cell_vcode{
+        .weui-cell__ft{
+          position: relative;
+          &::before{
+            content: '';
+            width: 1px;
+            height: .4rem;
+            background: #ccc;
+            position: absolute;
+            left: -1px;
+            top:.12rem;
+            display: inline-block;
+          }
+        }
+      }
+      .weui-vcode-btn{
+        .col-default;
+        background:#fff;
+        text-align: center;
+        font-size:14px;
+        height:.52rem;
+        line-height:.52rem;
+        margin-left: 0px;
+        margin-top:-.23rem;
+        border:none;
+        width:2rem;
+        -webkit-appearance : none ;  /*解决iphone safari上的圆角问题*/
+        &.forbid{
+          .col-gray6;
+        }
+      }
+    }
+  }
+  .btn{
+    background: @base-color;
+    .col-white;
+    .w-all;
+    .border-radius(.4rem);
+    .in-block;
+    .ta-c;
+    font-size:16px;
+    line-height:.8rem;
+    height:.8rem;
+    box-shadow: 0px .07rem .21rem 0px rgba(19, 66, 107, 0.55);
+    margin-bottom:.3rem;
+    margin-top:.77rem;
+  }
+}
+.reg-box{
+  position: absolute;
+  left: .5rem;
+  right: .5rem;
+  width: auto;
+  padding: .4rem;
+  background: #fff;
+  .border-radius(.04rem);
+  -webkit-transform: translateY(76px);
+  -ms-transform: translateY(76px);
+  transform: translateY(76px);
+  opacity: 0;
+  -webkit-animation: login-entry 1s ease .5s forwards;
+  animation: login-entry 1s ease .5s forwards;
+  .weui-cells{
+    margin-top:0rem;
+    &::after{
+      display:none;
+    }
+    &::before{
+      display:none;
+    }
+    .weui-cell{
+      padding:0px;
+      border-bottom:1px solid #cccccc;
+      line-height: .8rem;
+      height:.8rem;
+      margin-bottom: .4rem;
+      &::after{
+        display:none;
+      }
+      &::before{
+        display:none;
+      }
+      &:last-child{
+        margin-bottom:.2rem;
+      }
+      &.weui-cell_vcode{
+        .weui-cell__ft{
+          position: relative;
+          &::before{
+            content: '';
+            width: 1px;
+            height: .4rem;
+            background: #ccc;
+            position: absolute;
+            left: -1px;
+            top:.12rem;
+            display: inline-block;
+          }
+        }
+      }
+      .weui-vcode-btn{
+        .col-default;
+        background:#fff;
+        text-align: center;
+        font-size:14px;
+        height:.52rem;
+        line-height:.52rem;
+        margin-left: 0px;
+        margin-top:-.23rem;
+        border:none;
+        width:2rem;
+        -webkit-appearance : none ;  /*解决iphone safari上的圆角问题*/
+        &.forbid{
+          .col-gray6;
+        }
+      }
+    }
+  }
+  .btn{
+    background: @base-color;
+    .col-white;
+    .w-all;
+    .border-radius(.4rem);
+    .in-block;
+    .ta-c;
+    font-size:16px;
+    line-height:.8rem;
+    height:.8rem;
+    box-shadow: 0px .07rem .21rem 0px rgba(19, 66, 107, 0.55);
+    margin-bottom:.3rem;
+    margin-top:.3rem;
+  }
+}
+@keyframes login-entry {
+    0% {
+        -webkit-transform: translateY(76px);
+        transform: translateY(76px);
+        opacity: 0;
+    }
+
+    to {
+        -webkit-transform: translateY(0);
+        transform: translateY(0);
+        opacity: 1;
+    }
+}

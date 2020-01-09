@@ -50,7 +50,7 @@
         </ul>
         <div class="h45 lh45">
             <label class="f13 col-gray6">
-                <input type="checkbox" /><i></i>狗狗网用户注册协议和隐私政策
+                <input type="checkbox" /><i></i>问问网用户注册协议和隐私政策
             </label>
         </div>
         <a href="javascript:;" id="login_btn" class="login-btn mb20 forbid">注册</a>
