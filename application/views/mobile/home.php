@@ -54,7 +54,7 @@
           </div>
           <div class="weui-tab__bd">
             <div class="weui-panel__bd weui-tab__bd-item weui-tab__bd-item--active" id="tab1">
-              <a href="<?php echo base_url() ?>mobile/news_detail" target="_parent" class="weui-media-box weui-media-box_appmsg">
+              <a href="<?php echo base_url() ?>mobile/pages" target="_parent" class="weui-media-box weui-media-box_appmsg">
                 <div class="weui-media-box_text">
                   <h4 class="weui-media-box__title"><i class="type">美食</i>标一</h4>
                   <p class="weui-media-box__desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
@@ -64,7 +64,7 @@
                   </ul>
                 </div>
               </a>
-              <a href="<?php echo base_url() ?>mobile/news_detail" target="_parent" class="weui-media-box weui-media-box_appmsg">
+              <a href="<?php echo base_url() ?>mobile/pages" target="_parent" class="weui-media-box weui-media-box_appmsg">
                 <div class="weui-media-box_text">
                   <h4 class="weui-media-box__title"><i class="type">美食</i>标题标题标题标题标题标题标题标题标题标题标题标题标题标题一</h4>
                   <p class="weui-media-box__desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
@@ -74,7 +74,7 @@
                   </ul>
                 </div>
               </a>
-              <a href="<?php echo base_url() ?>mobile/news_detail" target="_parent" class="weui-media-box weui-media-box_appmsg">
+              <a href="<?php echo base_url() ?>mobile/pages" target="_parent" class="weui-media-box weui-media-box_appmsg">
                 <div class="weui-media-box_text">
                   <h4 class="weui-media-box__title"><i class="type">美食</i>标题标题标题标题标题标题标题标题标题标题标题标题标题标题一</h4>
                   <p class="weui-media-box__desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
@@ -84,7 +84,7 @@
                   </ul>
                 </div>
               </a>
-              <a href="<?php echo base_url() ?>mobile/news_detail" target="_parent" class="weui-media-box weui-media-box_appmsg">
+              <a href="<?php echo base_url() ?>mobile/pages" target="_parent" class="weui-media-box weui-media-box_appmsg">
                 <div class="weui-media-box_text">
                   <h4 class="weui-media-box__title"><i class="type">美食</i>标题标题标题标题标题标题标题标题标题标题标题标题标题标题一</h4>
                   <p class="weui-media-box__desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
@@ -96,7 +96,7 @@
               </a>
             </div>
             <div class="weui-panel__bd weui-tab__bd-item" id="tab2">
-              <a href="<?php echo base_url() ?>mobile/news_detail" target="_parent" class="weui-media-box weui-media-box_appmsg">
+              <a href="<?php echo base_url() ?>mobile/pages" target="_parent" class="weui-media-box weui-media-box_appmsg">
                 <div class="weui-media-box_text">
                   <h4 class="weui-media-box__title"><i class="type">游戏</i>标题二</h4>
                   <p class="weui-media-box__desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
@@ -106,7 +106,7 @@
                   </ul>
                 </div>
               </a>
-              <a href="<?php echo base_url() ?>mobile/news_detail" target="_parent" class="weui-media-box weui-media-box_appmsg">
+              <a href="<?php echo base_url() ?>mobile/pages" target="_parent" class="weui-media-box weui-media-box_appmsg">
                 <div class="weui-media-box_text">
                   <h4 class="weui-media-box__title"><i class="type">美食</i>标题标题标题标题标题标题标题标题标题标题标题标题标题标题一</h4>
                   <p class="weui-media-box__desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
@@ -116,7 +116,7 @@
                   </ul>
                 </div>
               </a>
-              <a href="<?php echo base_url() ?>mobile/news_detail" target="_parent" class="weui-media-box weui-media-box_appmsg">
+              <a href="<?php echo base_url() ?>mobile/pages" target="_parent" class="weui-media-box weui-media-box_appmsg">
                 <div class="weui-media-box_text">
                   <h4 class="weui-media-box__title"><i class="type">美食</i>标题标题标题标题标题标题标题标题标题标题标题标题标题标题一</h4>
                   <p class="weui-media-box__desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
@@ -126,7 +126,7 @@
                   </ul>
                 </div>
               </a>
-              <a href="<?php echo base_url() ?>mobile/news_detail" target="_parent" class="weui-media-box weui-media-box_appmsg">
+              <a href="<?php echo base_url() ?>mobile/pages" target="_parent" class="weui-media-box weui-media-box_appmsg">
                 <div class="weui-media-box_text">
                   <h4 class="weui-media-box__title"><i class="type">美食</i>标题标题标题标题标题标题标题标题标题标题标题标题标题标题一</h4>
                   <p class="weui-media-box__desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
@@ -138,7 +138,7 @@
               </a>
             </div>
             <div class="weui-panel__bd weui-tab__bd-item" id="tab3">
-              <a href="<?php echo base_url() ?>mobile/news_detail" target="_parent" class="weui-media-box weui-media-box_appmsg">
+              <a href="<?php echo base_url() ?>mobile/pages" target="_parent" class="weui-media-box weui-media-box_appmsg">
                 <div class="weui-media-box_text">
                   <h4 class="weui-media-box__title"><i class="type">美食</i>标题三</h4>
                   <p class="weui-media-box__desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
@@ -148,7 +148,7 @@
                   </ul>
                 </div>
               </a>
-              <a href="<?php echo base_url() ?>mobile/news_detail" target="_parent" class="weui-media-box weui-media-box_appmsg">
+              <a href="<?php echo base_url() ?>mobile/pages" target="_parent" class="weui-media-box weui-media-box_appmsg">
                 <div class="weui-media-box_text">
                   <h4 class="weui-media-box__title"><i class="type">美食</i>标题标题标题标题标题标题标题标题标题标题标题标题标题标题一</h4>
                   <p class="weui-media-box__desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
@@ -158,7 +158,7 @@
                   </ul>
                 </div>
               </a>
-              <a href="<?php echo base_url() ?>mobile/news_detail" target="_parent" class="weui-media-box weui-media-box_appmsg">
+              <a href="<?php echo base_url() ?>mobile/pages" target="_parent" class="weui-media-box weui-media-box_appmsg">
                 <div class="weui-media-box_text">
                   <h4 class="weui-media-box__title"><i class="type">美食</i>标题标题标题标题标题标题标题标题标题标题标题标题标题标题一</h4>
                   <p class="weui-media-box__desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
@@ -168,7 +168,7 @@
                   </ul>
                 </div>
               </a>
-              <a href="<?php echo base_url() ?>mobile/news_detail" target="_parent" class="weui-media-box weui-media-box_appmsg">
+              <a href="<?php echo base_url() ?>mobile/pages" target="_parent" class="weui-media-box weui-media-box_appmsg">
                 <div class="weui-media-box_text">
                   <h4 class="weui-media-box__title"><i class="type">美食</i>标题标题标题标题标题标题标题标题标题标题标题标题标题标题一</h4>
                   <p class="weui-media-box__desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
@@ -180,7 +180,7 @@
               </a>
             </div>
             <div class="weui-panel__bd weui-tab__bd-item" id="tab4">
-              <a href="<?php echo base_url() ?>mobile/news_detail" target="_parent" class="weui-media-box weui-media-box_appmsg">
+              <a href="<?php echo base_url() ?>mobile/pages" target="_parent" class="weui-media-box weui-media-box_appmsg">
                 <div class="weui-media-box_text">
                   <h4 class="weui-media-box__title"><i class="type">美食</i>标题四</h4>
                   <p class="weui-media-box__desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
@@ -190,7 +190,7 @@
                   </ul>
                 </div>
               </a>
-              <a href="<?php echo base_url() ?>mobile/news_detail" target="_parent" class="weui-media-box weui-media-box_appmsg">
+              <a href="<?php echo base_url() ?>mobile/pages" target="_parent" class="weui-media-box weui-media-box_appmsg">
                 <div class="weui-media-box_text">
                   <h4 class="weui-media-box__title"><i class="type">美食</i>标题标题标题标题标题标题标题标题标题标题标题标题标题标题一</h4>
                   <p class="weui-media-box__desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
@@ -200,7 +200,7 @@
                   </ul>
                 </div>
               </a>
-              <a href="<?php echo base_url() ?>mobile/news_detail" target="_parent" class="weui-media-box weui-media-box_appmsg">
+              <a href="<?php echo base_url() ?>mobile/pages" target="_parent" class="weui-media-box weui-media-box_appmsg">
                 <div class="weui-media-box_text">
                   <h4 class="weui-media-box__title"><i class="type">美食</i>标题标题标题标题标题标题标题标题标题标题标题标题标题标题一</h4>
                   <p class="weui-media-box__desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
@@ -210,7 +210,7 @@
                   </ul>
                 </div>
               </a>
-              <a href="<?php echo base_url() ?>mobile/news_detail" target="_parent" class="weui-media-box weui-media-box_appmsg">
+              <a href="<?php echo base_url() ?>mobile/pages" target="_parent" class="weui-media-box weui-media-box_appmsg">
                 <div class="weui-media-box_text">
                   <h4 class="weui-media-box__title"><i class="type">美食</i>标题标题标题标题标题标题标题标题标题标题标题标题标题标题一</h4>
                   <p class="weui-media-box__desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
@@ -222,7 +222,7 @@
               </a>
             </div>
             <div class="weui-panel__bd weui-tab__bd-item" id="tab5">
-              <a href="<?php echo base_url() ?>mobile/news_detail" target="_parent" class="weui-media-box weui-media-box_appmsg">
+              <a href="<?php echo base_url() ?>mobile/pages" target="_parent" class="weui-media-box weui-media-box_appmsg">
                 <div class="weui-media-box_text">
                   <h4 class="weui-media-box__title"><i class="type">美食</i>标题五</h4>
                   <p class="weui-media-box__desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
@@ -232,7 +232,7 @@
                   </ul>
                 </div>
               </a>
-              <a href="<?php echo base_url() ?>mobile/news_detail" target="_parent" class="weui-media-box weui-media-box_appmsg">
+              <a href="<?php echo base_url() ?>mobile/pages" target="_parent" class="weui-media-box weui-media-box_appmsg">
                 <div class="weui-media-box_text">
                   <h4 class="weui-media-box__title"><i class="type">美食</i>标题标题标题标题标题标题标题标题标题标题标题标题标题标题一</h4>
                   <p class="weui-media-box__desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
@@ -242,7 +242,7 @@
                   </ul>
                 </div>
               </a>
-              <a href="<?php echo base_url() ?>mobile/news_detail" target="_parent" class="weui-media-box weui-media-box_appmsg">
+              <a href="<?php echo base_url() ?>mobile/pages" target="_parent" class="weui-media-box weui-media-box_appmsg">
                 <div class="weui-media-box_text">
                   <h4 class="weui-media-box__title"><i class="type">美食</i>标题标题标题标题标题标题标题标题标题标题标题标题标题标题一</h4>
                   <p class="weui-media-box__desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
@@ -252,7 +252,7 @@
                   </ul>
                 </div>
               </a>
-              <a href="<?php echo base_url() ?>mobile/news_detail" target="_parent" class="weui-media-box weui-media-box_appmsg">
+              <a href="<?php echo base_url() ?>mobile/pages" target="_parent" class="weui-media-box weui-media-box_appmsg">
                 <div class="weui-media-box_text">
                   <h4 class="weui-media-box__title"><i class="type">美食</i>标题标题标题标题标题标题标题标题标题标题标题标题标题标题一</h4>
                   <p class="weui-media-box__desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
