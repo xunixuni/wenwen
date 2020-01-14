@@ -122,16 +122,6 @@
           </a>
         </div>
       </div>
-      <div class="f14 pl15 pr15 pb10 mt10">所属分类</div>
-      <div class="pages-bd">
-        <div class="type">
-          <a href="/page/tag">美食</a>
-          <i class="ico-class"></i>
-          <a href="/page/tag">甜品</a>
-          <i class="ico-class"></i>
-          <a href="/page/tag">蛋糕</a>
-        </div>
-      </div>
       <div class="home-type">
         <div class="weui-panel__hd">和<font class="ml3 mr3 f16 col-default">翻糖蛋糕好吃吗</font>有关的问题</div>
         <div class="weui-panel__bd">
@@ -217,6 +207,16 @@
             <h4 class="weui-media-box__title">什么游戏好玩</h4>
             <p class="weui-media-box__desc">2020-09-09</p>
           </a>
+        </div>
+      </div>
+      <div class="f14 pl15 pr15 pb10 mt10">所属分类</div>
+      <div class="pages-bd">
+        <div class="type">
+          <a href="/page/tag">美食</a>
+          <i class="ico-class"></i>
+          <a href="/page/tag">甜品</a>
+          <i class="ico-class"></i>
+          <a href="/page/tag">蛋糕</a>
         </div>
       </div>
       <div class="about-link">
