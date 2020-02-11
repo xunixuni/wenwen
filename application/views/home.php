@@ -10,18 +10,18 @@
 <div class="home-banner">
     <div class="swiper-wrapper">
         <div class="swiper-slide">
-            <a class="swiper-link" href="<?php echo base_url() ?>" target="_blank" style="background-color: #050102;">
-                <img src="http://iph.href.lu/1920x438?text=1920*438" width="1920" height="438" />
+            <a class="swiper-link" href="<?php echo base_url() ?>" target="_blank">
+                <img src="/htdocs/images/banner1.png" width="1920" height="360" />
             </a>
         </div>
         <div class="swiper-slide">
-            <a class="swiper-link" href="<?php echo base_url() ?>" target="_blank" style="background-color: #050102;">
-                <img src="http://iph.href.lu/1920x438?text=1920*438" width="1920" height="438" />
+            <a class="swiper-link" href="<?php echo base_url() ?>" target="_blank">
+                <img src="/htdocs/images/banner2.png" width="1920" height="360" />
             </a>
         </div>
         <div class="swiper-slide">
-            <a class="swiper-link" href="<?php echo base_url() ?>" target="_blank" style="background-color: #050102;">
-                <img src="http://iph.href.lu/1920x438?text=1920*438" width="1920" height="438" />
+            <a class="swiper-link" href="<?php echo base_url() ?>" target="_blank">
+                <img src="/htdocs/images/banner3.png" width="1920" height="360" />
             </a>
         </div>
     </div>

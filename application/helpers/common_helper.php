@@ -28,7 +28,7 @@ if( !function_exists('send_sms_api') )
         $appkey = 'eb16cd68e63d94e0d1467fd2d3ff7607';//App Key是用来校验短信发送请求合法性的密码，与SDK AppID对应，需要业务方高度保密，切勿把密码存储在客户端。
         $random = rand(pow(10, 5), (pow(10, 6)-1));//随机数
         $time = time();//当前时间
-        
+
         $params = [(string)$code];
         $sig = hash('sha256', 'appkey='.$appkey.'&random='.$random.'&time='.$time.'&mobile='.$mobile);
         $tel = array(
@@ -43,7 +43,7 @@ if( !function_exists('send_sms_api') )
         $post_data['tel'] = $tel;
         $post_data['time'] = $time;
         $post_data['tpl_id'] = $tpl_id;
-        
+
         //初始化
         $ch = curl_init();
         //设置选项，包括URL
@@ -73,13 +73,13 @@ if( !function_exists('format_article_time') )
             return '刚刚';
         }else if($diff < 60*60){//大于等于1分钟，小于1小时
             return floor($diff/60).'分钟前';
-            
+
         }else if($diff < 60*60*24){//大于等于1小时，小于1天
             return floor($diff/3600).'小时前';
-            
+
         }else if($diff < 60*60*24*4){//大于等于1天，小于4天
             return floor($diff/86400).'天前';
-            
+
         }else{//大于等于4天，则用年月日表示
             return date('Y-m-d',$fmt_time);
         }
@@ -112,20 +112,20 @@ if( !function_exists('format_markreg_year') )
     }
 }
 
-//生成随机字符串，包括数字和字母
-if( !function_exists('random_string_numlet') )
-{
-    function random_string_numlet($length){
-        if(!$length){
-            return false;
-        }
-        $pattern = '1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
-        $str = "";
-        for($i=0;$i<$length;$i++){
-            $str .= $pattern{mt_rand(0,61)};//生成php随机数   
-        } 
-        return $str;
-    }
-}
-
+// //生成随机字符串，包括数字和字母
+// if( !function_exists('random_string_numlet') )
+// {
+//     function random_string_numlet($length){
+//         if(!$length){
+//             return false;
+//         }
+//         $pattern = '1234567890abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+//         $str = "";
+//         for($i=0;$i<$length;$i++){
+//             $str .= $pattern{mt_rand(0,61)};//生成php随机数
+//         }
+//         return $str;
+//     }
+// }
+//过时函数 会报错 先注释
 ?>
