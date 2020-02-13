@@ -2883,7 +2883,6 @@ input[type=radio]:checked:disabled + i {
   line-height: 88px;
   color: #fff;
   font-size: 30px;
-  background: #e7e7e7;
 }
 .header .top-search .search {
   float: left;
@@ -2970,7 +2969,11 @@ input[type=radio]:checked:disabled + i {
   float: left;
   width: 200px;
   height: 88px;
-  background: url(../images/logo.png) no-repeat;
+}
+.header .user-nav .top-logo img {
+  height: 88px;
+  width: auto;
+  display: inline-block;
 }
 .header .user-nav .nav-item {
   float: left;
@@ -4231,7 +4234,7 @@ input[type=radio]:checked:disabled + i {
   line-height: 50px;
   display: inline-block;
   font-size: 34px;
-  text-align: center;
+  text-align: left;
   margin-right: 50px;
 }
 .sub-nav .ku-type {

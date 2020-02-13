@@ -8,7 +8,7 @@
 <div class="header">
   <div class="sub-nav">
     <div class="container after-cls">
-      <a href="/page/home" class="nav-home">logo</a>
+      <a href="/page/home" class="nav-home"><img src="/htdocs/images/wenwen-logo-white.png" width="" height="50" /></a>
       <div class="ku-type">
         <a href="/page/tag" class="items">互联网</a>
         <a href="/page/tag" class="items">美食节</a>

@@ -50,6 +50,10 @@ table tr:hover {
         <td align="right">手机首页</td>
         <td><a href="<?php echo base_url() ?>/mobile/home" target="_blank"><?php echo base_url() ?>mobile/home</a></td>
     </tr>
+    <tr>
+        <td align="right">疫情</td>
+        <td><a href="<?php echo base_url() ?>page/yiqing-index" target="_blank"><?php echo base_url() ?>page/yiqing-index</a></td>
+    </tr>
 
 </table>
 <!-- <table>

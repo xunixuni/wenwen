@@ -27,7 +27,7 @@
   </div>
   <div class="top-search">
     <div class="container after-cls">
-      <a href="/page/home" class="top-logo"><img src="http://iph.href.lu/200x88?text=200*88" width="200" height="88" /></a>
+      <a href="/page/home" class="top-logo"><img src="/htdocs/images/wenwen-logo-green.png" width="" height="88" /></a>
       <div class="search">
         <input type="text" placeholder="搜索答案" />
         <input type="button" />
