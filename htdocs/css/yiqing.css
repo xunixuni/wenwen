@@ -2574,6 +2574,9 @@ input[type=radio]:checked:disabled + i {
   background: #004c7e;
   border-bottom: 5px solid #bdbdbd;
 }
+.header .top-logo a {
+  display: block;
+}
 .header .nav {
   padding: 10px 0;
 }
@@ -2750,4 +2753,98 @@ input[type=radio]:checked:disabled + i {
 }
 .page-ft a:nth-child(even) {
   background: #ecebeb;
+}
+/*
+ * 媒体查询
+ */
+@media (min-width: 768px) and (max-width: 1199px) {
+  body {
+    font-size: 24px;
+  }
+  .header .top-logo {
+    padding: 20px 10px;
+    border-bottom: 6px solid #bdbdbd;
+  }
+  .header .nav {
+    padding: 20px 0;
+  }
+  .header .nav a {
+    padding: 10px 20px;
+  }
+  .footer .copyright {
+    font-size: 20px;
+  }
+  .panel .panel-hd {
+    padding: 16px 0;
+    border-top: 2px solid #bdbdbd;
+    border-bottom: 2px solid #bdbdbd;
+  }
+  .panel .panel-hd .breadcrumbs a {
+    font-size: 24px;
+  }
+  .panel .panel-hd .breadcrumbs em {
+    display: inline-block;
+    width: 24px;
+    height: 16px;
+    background-size: cover;
+  }
+  .panel .panel-bd .items {
+    padding: 30px 0;
+  }
+  .panel .panel-bd .items td img {
+    width: 130px;
+    height: 130px;
+    margin: 30px 20px 0 20px;
+  }
+  .panel .panel-bd .items td .name {
+    font-size: 32px;
+  }
+  .panel .panel-bd .items td dl {
+    font-size: 26px;
+    line-height: 34px;
+  }
+  .panel .panel-filter p {
+    font-size: 24px !important;
+  }
+  .panel .panel-filter a {
+    margin: 10px 16px 0px 22px;
+  }
+  .pagination ul {
+    padding: 10px 0;
+  }
+  .pagination li a {
+    font-size: 24px;
+    padding: 0 22px;
+  }
+  .pagination li input[type=text] {
+    font-size: 24px;
+  }
+  .pagination li span {
+    font-size: 24px;
+  }
+  .page-bd {
+    padding: 30px 0;
+  }
+  .page-bd .name {
+    font-size: 32px;
+    margin-bottom: 20px;
+  }
+  .page-bd table {
+    font-size: 28px;
+  }
+  .page-bd table img {
+    width: 130px;
+    height: 130px;
+    margin: 0 20px;
+  }
+  .page-bd table p {
+    line-height: 34px;
+  }
+  .page-tit {
+    line-height: 60px;
+    height: 60px;
+  }
+  .page-ft a {
+    padding: 25px 15px;
+  }
 }
