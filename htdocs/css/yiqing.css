@@ -2754,6 +2754,18 @@ input[type=radio]:checked:disabled + i {
 .page-ft a:nth-child(even) {
   background: #ecebeb;
 }
+.container span.pic {
+  background: #f9f9f9;
+  border: 1px solid #e0e0e0;
+  text-align: center;
+  padding: 36px 5px;
+  width: 90px;
+  display: inline-block;
+  float: left;
+  font-size: 18px;
+  word-break: break-all;
+  margin: 0 20px;
+}
 /*
  * 媒体查询
  */
@@ -2846,5 +2858,17 @@ input[type=radio]:checked:disabled + i {
   }
   .page-ft a {
     padding: 25px 15px;
+  }
+  .container span.pic {
+    background: #f9f9f9;
+    border: 1px solid #e0e0e0;
+    text-align: center;
+    padding: 52px 5px;
+    width: 130px;
+    display: inline-block;
+    float: left;
+    font-size: 24px;
+    word-break: break-all;
+    margin: 0 20px;
   }
 }

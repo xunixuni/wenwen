@@ -2378,6 +2378,82 @@ a.underline:hover {
   -moz-border-radius: 5px;
   border-radius: 5px;
 }
+.upwin-mask {
+  position: fixed;
+  z-index: 996;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+  filter: alpha(opacity=30);
+  -moz-opacity: 0.3;
+  opacity: 0.3;
+}
+.upwin {
+  position: fixed;
+  z-index: 997;
+  left: 50%;
+  top: 50%;
+  padding: 0 20px;
+  background: #fff;
+  box-shadow: 0 0 14px rgba(0, 0, 0, 0.11);
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+}
+.upwin .upwin-btn {
+  display: block;
+  width: 100%;
+  height: 42px;
+  line-height: 43px;
+  font-size: 16px;
+  color: #fff;
+  text-align: center;
+  background-color: #207561;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+  -webkit-transition: all linear 0.2s;
+  transition: all linear 0.2s;
+}
+.upwin .upwin-btn:hover {
+  filter: alpha(opacity=80);
+  -moz-opacity: 0.8;
+  opacity: 0.8;
+}
+.upwin .upwin-btn.forbid {
+  opacity: .8 !important;
+  cursor: not-allowed;
+}
+.upwin .upwin-link {
+  font-size: 14px;
+  color: #207561;
+}
+.upwin .upwin-title {
+  position: relative;
+  padding-right: 20px;
+  height: 50px;
+  line-height: 50px;
+  border-bottom: 1px solid #eee;
+  font-size: 16px;
+  color: #333;
+  overflow: hidden;
+  background-color: #fff;
+}
+.upwin .upwin-title-close {
+  position: absolute;
+  top: 19px;
+  right: 0;
+  width: 16px;
+  height: 16px;
+  background: url(../images/layer-icon.png?201908101248) no-repeat;
+  background-position: 1px -40px;
+}
+.upwin .upwin-content {
+  padding: 20px 0;
+  font-size: 13px;
+}
 .alert-btn0 {
   display: inline-block;
   vertical-align: top;
@@ -2402,6 +2478,10 @@ a.underline:hover {
   filter: alpha(opacity=80);
   -moz-opacity: 0.8;
   opacity: 0.8;
+  color: #333;
+}
+.alert-btn0:hover {
+  color: #fff;
 }
 .alert-btn1 {
   display: inline-block;
@@ -2424,6 +2504,7 @@ a.underline:hover {
   filter: alpha(opacity=80);
   -moz-opacity: 0.8;
   opacity: 0.8;
+  color: #333;
 }
 .alert-ico {
   /*默认感叹号图标*/
