@@ -4569,3 +4569,162 @@ input[type=radio]:checked:disabled + i {
 .help-index .bd .help-ques ul li a:hover {
   color: #207561;
 }
+.home-huati {
+  margin-top: 20px;
+  padding: 0px 0 20px 0;
+  min-width: 1210px;
+}
+.home-huati .top {
+  width: 100%;
+  display: inline-block;
+  margin-bottom: 20px;
+  clear: both !important;
+}
+.home-huati .top .item {
+  display: block;
+  float: left;
+  width: 380px;
+  margin-right: 35px;
+  position: relative;
+}
+.home-huati .top .item img {
+  display: block;
+}
+.home-huati .top .item p {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  padding: 5px 10px;
+  width: 380px;
+  color: #fff;
+  text-align: center;
+  font-size: 16px;
+  line-height: 24px;
+  background: rgba(0, 0, 0, 0.5);
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.home-huati .top .item:last-child {
+  margin-right: 0px;
+}
+.home-huati .hd {
+  border-bottom: 1px solid #207561;
+  line-height: 44px;
+}
+.home-huati .hd span {
+  font-size: 20px;
+}
+.home-huati .hd a {
+  float: right;
+  color: #207561;
+}
+.home-huati .bd .item {
+  padding: 20px 20px;
+  display: inline-block;
+  border-bottom: 1px dashed #ddd;
+  clear: both !important;
+}
+.home-huati .bd .item .img {
+  float: left;
+  width: 230px;
+}
+.home-huati .bd .item .img img {
+  display: inline-block;
+}
+.home-huati .bd .item .rt {
+  float: left;
+  width: 940px;
+}
+.home-huati .bd .item .rt .tit {
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+.home-huati .bd .item .rt .desc {
+  color: #666;
+  line-height: 22px;
+  display: -webkit-box;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  min-height: 66px;
+  margin-bottom: 20px;
+}
+.home-huati .bd .item .rt .date {
+  color: #999;
+}
+.huati-page .hd {
+  text-align: center;
+  padding: 10px 20px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.huati-page .meta {
+  background: #f2f2f2;
+  padding: 15px 15px;
+  width: 600px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  margin: 0 auto !important;
+  text-align: center;
+  font-size: 12px;
+  color: #666;
+}
+.huati-page .meta .source {
+  display: inline-block;
+  margin-right: 15px;
+}
+.huati-page .meta .date {
+  display: inline-block;
+  margin-right: 15px;
+}
+.huati-page .bd {
+  padding-bottom: 20px;
+}
+.huati-page .bd p {
+  padding: 10px 30px;
+  line-height: 24px;
+}
+.huati-page .bd p img {
+  display: block;
+  margin: 0 auto !important;
+}
+.huati-page .ft {
+  clear: both !important;
+  width: 600px;
+  margin: 0 auto !important;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: box;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  justify-content: space-between;
+}
+.huati-page .ft a {
+  display: inline-block;
+  padding: 30px 0px;
+  font-size: 16px;
+  text-align: center;
+  width: 50%;
+  color: #666;
+  background-image: linear-gradient(to top, #f7f7f7, #ffffff);
+  box-shadow: 0 3px 30px rgba(0, 0, 0, 0.05);
+}
+.huati-page .ft a:hover {
+  background: #fff;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.05);
+}
+.huati-page .ft a:nth-child(2) {
+  border-left: 1px solid #ddd;
+}
+.huati-page .ft a i {
+  margin-top: -3px;
+}
