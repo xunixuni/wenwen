@@ -3026,15 +3026,15 @@ table {
   padding: .4rem 0;
 }
 .three-enter a span {
-  width: 2rem;
-  height: 1rem;
+  width: 1.5rem;
+  height: .8rem;
   display: inline-block;
-  box-shadow: 0 0 6px 1px #eee;
+  box-shadow: 0 0 3px 1px #eee;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
   border-radius: 4px;
-  font-size: 16px;
-  line-height: 1rem;
+  font-size: 14px;
+  line-height: .8rem;
 }
 /*问题分类*/
 .header-title {
@@ -3907,6 +3907,13 @@ table {
   position: relative;
   top: 2px;
 }
+.pages-hd .meta {
+  font-size: 12px;
+  color: #999;
+}
+.pages-hd .meta div {
+  display: inline-block;
+}
 .pages-hd .ft {
   line-height: .54rem;
   margin-top: .1rem;
@@ -3986,6 +3993,10 @@ table {
   font-size: 18px;
   margin-bottom: .2rem;
   line-height: .54rem;
+}
+.pages-bd p img {
+  display: block;
+  margin: 0 auto !important;
 }
 .article-paged {
   border: 1px solid #f3f3f3;

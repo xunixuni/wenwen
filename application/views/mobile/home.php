@@ -42,6 +42,9 @@
           <a href="/mobile/ku" class="c">
             <span>问题库</span>
           </a>
+          <a href="/mobile/huati" class="c">
+            <span>新话题</span>
+          </a>
         </div>
         <!--列表-->
         <div class="weui-tab weui-panel weui-panel_access article-list mt10">
@@ -455,6 +458,79 @@
       <div class="weui-loadmore" id="article_loading">
           <i class="weui-loading"></i>
           <span class="weui-loadmore__tips">正在加载</span>
+      </div>
+      <div class="home-huati">
+        <div class="weui-panel weui-panel_access">
+        <div class="weui-panel__hd">新话题</div>
+        <div class="weui-panel__bd">
+          <a href="/mobile/huati" class="weui-media-box weui-media-box_appmsg">
+            <div class="weui-media-box__hd">
+              <img src="http://iph.href.lu/60x60?text=60*60" width="60" height="60">
+            </div>
+            <div class="weui-media-box__bd">
+              <h4 class="weui-media-box__title f16">标题一</h4>
+              <p class="weui-media-box__desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
+              <p class="col-gray9 f12">发布时间:2020-09-09 19:00:00</p>
+            </div>
+          </a>
+          <a href="/mobile/huati" class="weui-media-box weui-media-box_appmsg">
+            <div class="weui-media-box__hd">
+              <img src="http://iph.href.lu/60x60?text=60*60" width="60" height="60">
+            </div>
+            <div class="weui-media-box__bd">
+              <h4 class="weui-media-box__title f16">标题二</h4>
+              <p class="weui-media-box__desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
+              <p class="col-gray9 f12">发布时间:2020-09-09 19:00:00</p>
+            </div>
+          </a>
+          <a href="/mobile/huati" class="weui-media-box weui-media-box_appmsg">
+            <div class="weui-media-box__hd">
+              <img src="http://iph.href.lu/60x60?text=60*60" width="60" height="60">
+            </div>
+            <div class="weui-media-box__bd">
+              <h4 class="weui-media-box__title f16">标题一</h4>
+              <p class="weui-media-box__desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
+              <p class="col-gray9 f12">发布时间:2020-09-09 19:00:00</p>
+            </div>
+          </a>
+          <a href="/mobile/huati" class="weui-media-box weui-media-box_appmsg">
+            <div class="weui-media-box__hd">
+              <img src="http://iph.href.lu/60x60?text=60*60" width="60" height="60">
+            </div>
+            <div class="weui-media-box__bd">
+              <h4 class="weui-media-box__title f16">标题二</h4>
+              <p class="weui-media-box__desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
+              <p class="col-gray9 f12">发布时间:2020-09-09 19:00:00</p>
+            </div>
+          </a>
+          <a href="/mobile/huati" class="weui-media-box weui-media-box_appmsg">
+            <div class="weui-media-box__hd">
+              <img src="http://iph.href.lu/60x60?text=60*60" width="60" height="60">
+            </div>
+            <div class="weui-media-box__bd">
+              <h4 class="weui-media-box__title f16">标题一</h4>
+              <p class="weui-media-box__desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
+              <p class="col-gray9 f12">发布时间:2020-09-09 19:00:00</p>
+            </div>
+          </a>
+          <a href="/mobile/huati" class="weui-media-box weui-media-box_appmsg">
+            <div class="weui-media-box__hd">
+              <img src="http://iph.href.lu/60x60?text=60*60" width="60" height="60">
+            </div>
+            <div class="weui-media-box__bd">
+              <h4 class="weui-media-box__title f16">标题二</h4>
+              <p class="weui-media-box__desc">由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。由各种物质组成的巨型球状天体，叫做星球。星球有一定的形状，有自己的运行轨道。</p>
+              <p class="col-gray9 f12">发布时间:2020-09-09 19:00:00</p>
+            </div>
+          </a>
+        </div>
+        <div class="weui-panel__ft">
+          <a href="/mobile/huati" class="weui-cell weui-cell_access weui-cell_link">
+            <div class="weui-cell__bd">查看更多</div>
+            <span class="weui-cell__ft"></span>
+          </a>
+        </div>
+      </div>
       </div>
       <div class="about-link">
         <a href="/mobile/about-wenwen">关于我们</a>

@@ -997,13 +997,13 @@ table{ border-collapse:collapse;border-spacing: 0;}/* 表格边线及内间距 *
     color: @base-color;
     padding: .4rem 0;
     span{
-      width:2rem;
-      height:1rem;
+      width:1.5rem;
+      height:.8rem;
       display: inline-block;
-      box-shadow:0 0 6px 1px #eee;
+      box-shadow:0 0 3px 1px #eee;
       .border-radius(4px);
-      font-size: 16px;
-      line-height: 1rem;
+      font-size: 14px;
+      line-height: .8rem;
     }
   }
 }
@@ -1840,6 +1840,13 @@ table{ border-collapse:collapse;border-spacing: 0;}/* 表格边线及内间距 *
       top:2px;
     }
   }
+  .meta{
+    font-size: 12px;
+    color: #999;
+    div{
+      display: inline-block;
+    }
+  }
   .ft{
     line-height: .54rem;
     margin-top: .1rem;
@@ -1913,6 +1920,12 @@ table{ border-collapse:collapse;border-spacing: 0;}/* 表格边线及内间距 *
     font-size: 18px;
     margin-bottom: .2rem;
     line-height: .54rem;
+  }
+  p{
+    img{
+      display:block;
+      .m-auto;
+    }
   }
 }
 .article-paged{
