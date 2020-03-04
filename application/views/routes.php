@@ -54,6 +54,18 @@ table tr:hover {
         <td align="right">疫情</td>
         <td><a href="<?php echo base_url() ?>page/yiqing-index" target="_blank"><?php echo base_url() ?>page/yiqing-index</a></td>
     </tr>
+    <tr>
+        <td align="right">短期流量</td>
+        <td><a href="<?php echo base_url() ?>page/liuliang-index" target="_blank"><?php echo base_url() ?>page/liuliang-index</a></td>
+    </tr>
+    <tr>
+        <td align="right">短期流量结果页</td>
+        <td><a href="<?php echo base_url() ?>page/liuliang-list" target="_blank"><?php echo base_url() ?>page/liuliang-list</a></td>
+    </tr>
+    <tr>
+        <td align="right">词汇地图</td>
+        <td><a href="<?php echo base_url() ?>page/liuliang-map" target="_blank"><?php echo base_url() ?>page/liuliang-map</a></td>
+    </tr>
 
 </table>
 <!-- <table>
