@@ -4056,11 +4056,12 @@ table {
   overflow: hidden;
 }
 .pages-anwser .bd .text.show {
-  max-height: max-content;
+  max-height: inherit;
   overflow: auto;
 }
 .pages-anwser .bd .text p {
   margin-bottom: .2rem;
+  font-size: 16px;
 }
 .pages-anwser .bd .hide {
   width: 100%;
