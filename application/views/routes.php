@@ -68,16 +68,16 @@ table tr:hover {
     </tr>
 
 </table>
-<!-- <table>
-    <tr style="color: #f00;"><th align="right" width="200">标题</th><th align="left">管理员后台路由</th></tr>
+<table>
+    <tr><th align="right" width="200">人搜网</th><th align="left">路由</th></tr>
     <tr>
-        <td align="right">列表</td>
-        <td><a href="<?php echo base_url() ?>admin/table" target="_blank"><?php echo base_url() ?>admin/table</a></td>
+        <td align="right">首页</td>
+        <td><a href="<?php echo base_url() ?>page/ren-home" target="_blank"><?php echo base_url() ?>page/ren-home</a></td>
     </tr>
     <tr>
-        <td align="right">登录页面</td>
-        <td><a href="<?php echo base_url() ?>admin/login" target="_blank"><?php echo base_url() ?>admin/login</a></td>
+        <td align="right">历史人物</td>
+        <td><a href="<?php echo base_url() ?>page/ren-a" target="_blank"><?php echo base_url() ?>page/ren-a</a></td>
     </tr>
-</table> -->
+</table>
 </body>
 </html>
