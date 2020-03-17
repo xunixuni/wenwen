@@ -78,6 +78,30 @@ table tr:hover {
         <td align="right">历史人物</td>
         <td><a href="<?php echo base_url() ?>page/ren-a" target="_blank"><?php echo base_url() ?>page/ren-a</a></td>
     </tr>
+    <tr>
+        <td align="right">三国人物</td>
+        <td><a href="<?php echo base_url() ?>page/ren-b" target="_blank"><?php echo base_url() ?>page/ren-b</a></td>
+    </tr>
+    <tr>
+        <td align="right">人物详情</td>
+        <td><a href="<?php echo base_url() ?>page/ren-c" target="_blank"><?php echo base_url() ?>page/ren-c</a></td>
+    </tr>
+    <tr>
+        <td align="right">人物话题</td>
+        <td><a href="<?php echo base_url() ?>page/ren-huati" target="_blank"><?php echo base_url() ?>page/ren-huati</a></td>
+    </tr>
+    <tr>
+        <td align="right">人物详情页</td>
+        <td><a href="<?php echo base_url() ?>page/ren-huati-page" target="_blank"><?php echo base_url() ?>page/ren-huati-page</a></td>
+    </tr>
+    <tr>
+        <td align="right">标签页</td>
+        <td><a href="<?php echo base_url() ?>page/ren-alltips" target="_blank"><?php echo base_url() ?>page/ren-alltips</a></td>
+    </tr>
+    <tr>
+        <td align="right">标签页详情页</td>
+        <td><a href="<?php echo base_url() ?>page/ren-alltips-page" target="_blank"><?php echo base_url() ?>page/ren-alltips-page</a></td>
+    </tr>
 </table>
 </body>
 </html>
