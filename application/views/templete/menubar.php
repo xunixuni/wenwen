@@ -1,51 +1,27 @@
 <div class="header">
   <div class="top-bar">
     <div class="container after-cls">
-      <!-- <div class="location">
-          <a href="javascript:;" class="current-location">杭州市</a>
-          <div class="location-panel">
-              <div class="title">请选择您所在的城市
-                  <a href="javascript:;" data-target="provincelist">省份</a>
-                  <a href="javascript:;" class="curtype" data-target="citylist">城市</a>
-              </div>
-              <div id="provincelist" class="provincelist list after-cls">
-
-              </div>
-              <div id="citylist" class="citylist list after-cls">
-
-              </div>
-          </div>
-      </div> -->
       <div class="bar-item">
-        <ul>
-          <li><a href="/page/login">登录</a></li>
-          <li><a href="/page/register">注册</a></li>
-          <li><a href="javascript:;">帮助中心</a></li>
-        </ul>
+        <a href="#" class="logo"></a>
+        <em>杭州</em>
+        <a href="#" class="other">换其他城市</a>
       </div>
-    </div>
-  </div>
-  <div class="top-search">
-    <div class="container after-cls">
-      <a href="/page/home" class="top-logo"><img src="/htdocs/images/wenwen-logo-green.png" width="" height="88" /></a>
-      <div class="search">
-        <input type="text" placeholder="搜索答案" />
-        <input type="button" />
+      <div class="top-search">
+          <input type="text" placeholder="你要找什么" />
+          <a href="/page/results" class="btn">找信息</a>
       </div>
-      <a href="" class="sales-enter">我要提问</a>
     </div>
   </div>
   <div class="top-nav">
     <div class="container after-cls">
-      <a href="/page/home" class="nav-home">首页</a>
-      <div class="nav-item">
-        <ul>
-          <li class="cur"><a href="/page/fenlei">问题分类</a></li>
-          <li><a href="/page/jingxuan">问题精选</a></li>
-          <li><a href="/page/ku">问题库</a></li>
-          <li><a href="/page/huati">新话题</a></li>
-        </ul>
-      </div>
+      <a href="/page/index" class="cur">首页</a>
+      <a href="/page/list" class="">月子中心</a>
+      <a href="/page/" class="">保姆月嫂</a>
+      <a href="/page/" class="">产后护理</a>
+      <a href="/page/" class="">母婴用品</a>
+      <a href="/page/" class="">学前教育</a>
+      <a href="/page/shiguan" class="">试管婴儿医院</a>
+      <a href="/page/wenda" class="">问答</a>
     </div>
   </div>
 </div>

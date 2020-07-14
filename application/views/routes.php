@@ -44,63 +44,35 @@ table tr:hover {
     <tr><th align="right" width="200">标题</th><th align="left">路由</th></tr>
     <tr>
         <td align="right">首页</td>
-        <td><a href="<?php echo base_url() ?>page/home" target="_blank"><?php echo base_url() ?>page/home</a></td>
+        <td><a href="<?php echo base_url() ?>page/index" target="_blank"><?php echo base_url() ?>page/index</a></td>
     </tr>
     <tr>
-        <td align="right">手机首页</td>
-        <td><a href="<?php echo base_url() ?>/mobile/home" target="_blank"><?php echo base_url() ?>mobile/home</a></td>
+        <td align="right">图文列表</td>
+        <td><a href="<?php echo base_url() ?>page/list" target="_blank"><?php echo base_url() ?>page/list</a></td>
     </tr>
     <tr>
-        <td align="right">疫情</td>
-        <td><a href="<?php echo base_url() ?>page/yiqing-index" target="_blank"><?php echo base_url() ?>page/yiqing-index</a></td>
+        <td align="right">试管婴儿医院</td>
+        <td><a href="<?php echo base_url() ?>page/shiguan" target="_blank"><?php echo base_url() ?>page/shiguan</a></td>
     </tr>
     <tr>
-        <td align="right">短期流量</td>
-        <td><a href="<?php echo base_url() ?>page/liuliang-index" target="_blank"><?php echo base_url() ?>page/liuliang-index</a></td>
+        <td align="right">国内试管婴儿医院</td>
+        <td><a href="<?php echo base_url() ?>page/shiguan-more" target="_blank"><?php echo base_url() ?>page/shiguan-more</a></td>
     </tr>
     <tr>
-        <td align="right">短期流量结果页</td>
-        <td><a href="<?php echo base_url() ?>page/liuliang-list" target="_blank"><?php echo base_url() ?>page/liuliang-list</a></td>
+        <td align="right">试管婴儿医院详情</td>
+        <td><a href="<?php echo base_url() ?>page/shiguan-page" target="_blank"><?php echo base_url() ?>page/shiguan-page</a></td>
     </tr>
     <tr>
-        <td align="right">词汇地图</td>
-        <td><a href="<?php echo base_url() ?>page/liuliang-map" target="_blank"><?php echo base_url() ?>page/liuliang-map</a></td>
-    </tr>
-
-</table>
-<table>
-    <tr><th align="right" width="200">人搜网</th><th align="left">路由</th></tr>
-    <tr>
-        <td align="right">首页</td>
-        <td><a href="<?php echo base_url() ?>page/ren-home" target="_blank"><?php echo base_url() ?>page/ren-home</a></td>
+        <td align="right">问答</td>
+        <td><a href="<?php echo base_url() ?>page/wenda" target="_blank"><?php echo base_url() ?>page/wenda</a></td>
     </tr>
     <tr>
-        <td align="right">历史人物</td>
-        <td><a href="<?php echo base_url() ?>page/ren-a" target="_blank"><?php echo base_url() ?>page/ren-a</a></td>
+        <td align="right">问答详情</td>
+        <td><a href="<?php echo base_url() ?>page/wenda-page" target="_blank"><?php echo base_url() ?>page/wenda-page</a></td>
     </tr>
     <tr>
-        <td align="right">三国人物</td>
-        <td><a href="<?php echo base_url() ?>page/ren-b" target="_blank"><?php echo base_url() ?>page/ren-b</a></td>
-    </tr>
-    <tr>
-        <td align="right">人物详情</td>
-        <td><a href="<?php echo base_url() ?>page/ren-c" target="_blank"><?php echo base_url() ?>page/ren-c</a></td>
-    </tr>
-    <tr>
-        <td align="right">人物话题</td>
-        <td><a href="<?php echo base_url() ?>page/ren-huati" target="_blank"><?php echo base_url() ?>page/ren-huati</a></td>
-    </tr>
-    <tr>
-        <td align="right">人物详情页</td>
-        <td><a href="<?php echo base_url() ?>page/ren-huati-page" target="_blank"><?php echo base_url() ?>page/ren-huati-page</a></td>
-    </tr>
-    <tr>
-        <td align="right">标签页</td>
-        <td><a href="<?php echo base_url() ?>page/ren-alltips" target="_blank"><?php echo base_url() ?>page/ren-alltips</a></td>
-    </tr>
-    <tr>
-        <td align="right">标签页详情页</td>
-        <td><a href="<?php echo base_url() ?>page/ren-alltips-page" target="_blank"><?php echo base_url() ?>page/ren-alltips-page</a></td>
+        <td align="right">搜索结果</td>
+        <td><a href="<?php echo base_url() ?>page/results" target="_blank"><?php echo base_url() ?>page/results</a></td>
     </tr>
 </table>
 </body>
